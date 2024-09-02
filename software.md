@@ -3,17 +3,17 @@ and will run identically on Windows, Mac OS X, and Linux platforms.
 
 There are six main pieces of software to install:
 
--   [R](https://www.r-project.org/): An environment for statistical
-    computing.
--   [Rstudio](https://www.rstudio.com/): An integrated development
-    environment for using R.
--   [tidyverse](https://www.tidyverse.org/): A bundle of R packages to
-    use R the modern way.
--   Miscellaneous R packages: Other vital, or just handy, R packages.
--   [Stan](http://mc-stan.org/): A Bayesian probabilistic modelling
-    language.
--   [brms](https://github.com/paul-buerkner/brms): An R package to
-    interface with [Stan](http://mc-stan.org/).
+- [R](https://www.r-project.org/): An environment for statistical
+  computing.
+- [Rstudio](https://www.rstudio.com/): An integrated development
+  environment for using R.
+- [tidyverse](https://www.tidyverse.org/): A bundle of R packages to
+  use R the modern way.
+- Miscellaneous R packages: Other vital, or just handy, R packages.
+- [Stan](http://mc-stan.org/): A Bayesian probabilistic modelling
+  language.
+- [brms](https://github.com/paul-buerkner/brms): An R package to
+  interface with [Stan](http://mc-stan.org/).
 
 All of the above installation should be easy and painless except
 possibly for the installation of [Stan](http://mc-stan.org/), which can
@@ -28,7 +28,7 @@ all its dependencies.
 Go to the [R](https://www.r-project.org/) website and follow the links
 for downloading. On Windows, this should lead you to
 
--   <https://cran.r-project.org/bin/windows/base/>.
+- <https://cran.r-project.org/bin/windows/base/>.
 
 Downloading this and following the usual Windows installation process,
 you\'ll then have a full working version of R.
@@ -36,7 +36,7 @@ you\'ll then have a full working version of R.
 On Macs, the installation procedure is essentially identical. The latest
 Mac installer should be available at
 
--   <https://cran.r-project.org/bin/macosx/>.
+- <https://cran.r-project.org/bin/macosx/>.
 
 Download this and follow the usual Mac installation process to get a
 full working version of R for Macs.
@@ -49,10 +49,10 @@ R is more convenient and pleasant when working through Rstudio. To
 install it, go to the [Rstudio](https://www.rstudio.com/) website,
 specifically to
 
--   <https://www.rstudio.com/products/rstudio/download/>
+- <https://www.rstudio.com/products/rstudio/download/>
 
 which will list all the available installers. Note that you just want
-the Rstudio *desktop* program. The Rstudio *server* is something else
+the Rstudio _desktop_ program. The Rstudio _server_ is something else
 (basically it is for providing remote access to Rstudio hosted on Linux
 servers).
 
@@ -70,7 +70,7 @@ It represents the modern way to use R, and in my opinion, it\'s the best
 way to use R. All the [tidyverse](https://www.tidyverse.org/) packages
 can be installed by typing the following command in R:
 
-``` {.R}
+```{.R}
 install.packages("tidyverse")
 ```
 
@@ -78,12 +78,14 @@ The main packages that are contained within the
 [tidyverse](https://www.tidyverse.org/) bundle are listed
 [here](https://www.tidyverse.org/packages/).
 
-## Installing Miscellaneous R packages
+## Installing additional R packages
 
-There are a bunch of other R packages that we either will use. Here are the main ones:
-``` {.R}
+There are a set of other R packages that we will use. Here are the main ones:
+
+```{.R}
 install.packages("lme4")
 install.packages("mgcv")
+install.packages("gamm4")
 ```
 
 ## Installing Stan
@@ -117,11 +119,10 @@ get the [brms](https://github.com/paul-buerkner/brms) R package, which
 makes using Stan with R particularly easy when using conventional
 models.
 
-
 To get [brms](https://github.com/paul-buerkner/brms), first start
 Rstudio (whether on Windows, Macs, Linux) and then run
 
-``` {.R}
+```{.R}
 install.packages('brms')
 ```
 
@@ -135,48 +136,3 @@ data_df <- tibble(x = rnorm(10))
 
 M <- brm(x ~ 1, data = data_df)
 ```
-
-### Extra note on installing Stan, `rstan`, `brms` on Windows
-
-As a test, on November 25, 2020, I installed Stan, `rstan`, and `brms` from scrarch on Windows.
-
-First, I did this: 
-
-* Uninstall R and RStudio completely.
-* Delete my Documents/R (default location of R packages) folder
-* Reinstall R and RStudio from latest versions
-
-Then, I installed `rstan`.
-``` {.R}
-install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)
-```
-
-Then, I installed `rtools` using 64 bit installer here https://cran.r-project.org/bin/windows/Rtools/, i.e. https://cran.r-project.org/bin/windows/Rtools/rtools40-x86_64.exe
-
-Then, I tested Stan/`rstan` with
-```{.R}
-library(rstan)
-example(stan_model,run.dontrun = TRUE)
-```
-There was a lot of output, but it eventually (after about 3-5 minutes) finished with samples from a model.
-
-Then, I installed `tidyverse` and `brms`.
-
-```{.R}
-install.packages("tidyverse")
-install.packages("brms")
-```
-
-
-Then, tested the tiny `brms` model.
-```{.R}
-library(tidyverse)
-library(brms)
-
-data_df <- tibble(x = rnorm(10))
-
-M <- brm(x ~ 1, data = data_df)
-```
-
-And all was well.
-
