@@ -136,3 +136,10 @@ data_df <- tibble(x = rnorm(10))
 
 M <- brm(x ~ 1, data = data_df)
 ```
+
+## Datasets
+
+The datasets that we will use can be loaded into R with the following command:
+```r
+source("https://raw.githubusercontent.com/mark-andrews/uwarsaw_gamr01/main/scripts/get_data.R")
+```
