@@ -44,7 +44,6 @@ subjectid,gender,height,weight,handedness,age,race
 10451,male,183.6,85,right,19,white
 10460,male,173,86.5,right,24,hispanic
 10467,male,176.2,95.8,right,33,white
-10471,male,166.9,66.7,right,21,asian
 10473,male,174,70.6,right,29,white
 10482,male,170.9,84.7,right,31,white
 10495,male,187.9,101.3,right,39,white
@@ -57,9 +56,7 @@ subjectid,gender,height,weight,handedness,age,race
 10525,male,184,140,right,33,white
 10529,male,178.3,67.4,right,26,black
 10533,male,174.8,88.4,left,28,white
-10534,male,170.3,98.8,right,40,native_american
 10553,male,185.2,95.2,right,35,white
-10557,male,160.9,56.6,right,26,asian
 10558,male,170.9,71.7,right,33,white
 10564,male,183.5,71.7,left,27,white
 10577,male,167.9,80.2,right,43,white
@@ -110,7 +107,6 @@ subjectid,gender,height,weight,handedness,age,race
 10721,male,181.9,83.5,right,34,black
 10735,male,168.3,85.1,right,30,white
 10736,male,181.5,89.7,right,31,hispanic
-10737,male,181.5,87.2,right,42,asian
 10740,male,167.3,82.2,right,40,white
 10746,male,183.1,111.2,right,28,white
 10747,male,179.5,98.7,left,48,white
@@ -119,7 +115,6 @@ subjectid,gender,height,weight,handedness,age,race
 10756,male,175.6,86.9,right,30,white
 10761,male,184.6,141.3,right,28,hispanic
 10762,male,165.7,78.9,right,21,hispanic
-10770,male,163.2,69,right,20,asian
 10777,male,173.5,79.2,right,29,white
 10779,male,172.6,69.9,right,34,hispanic
 10781,male,187.7,121.2,right,46,white
@@ -134,7 +129,6 @@ subjectid,gender,height,weight,handedness,age,race
 10814,male,174.6,78.2,right,31,black
 10816,male,175,83.1,right,36,white
 10817,male,181,99.6,right,24,white
-10818,male,171,74.2,right,33,asian
 10821,male,184.7,96.8,right,31,white
 10823,male,181.1,91.6,right,27,white
 10825,male,178,108,right,40,black
@@ -162,7 +156,6 @@ subjectid,gender,height,weight,handedness,age,race
 10899,male,187.9,97.8,right,32,black
 10900,male,173.3,97.4,right,30,white
 10908,male,183.5,95.8,right,38,white
-10914,male,179.2,112.3,right,25,pacific_islander
 10922,male,172.1,90,right,39,white
 10923,male,171.1,94.8,either,27,hispanic
 10933,male,180.9,95,right,32,white
@@ -175,7 +168,6 @@ subjectid,gender,height,weight,handedness,age,race
 11011,male,172.4,70.7,right,32,white
 11022,male,170.5,70.5,right,31,black
 11028,male,183.8,85.1,right,36,white
-11031,male,170.6,86.5,left,25,asian
 11037,male,180.9,97.2,left,43,white
 11051,male,177.3,82.2,right,37,white
 11064,male,173.4,84.2,right,31,white
@@ -197,13 +189,11 @@ subjectid,gender,height,weight,handedness,age,race
 11147,male,180,71.1,right,29,white
 11150,male,171.5,67.8,right,31,white
 11158,male,184.2,78.2,right,24,white
-11159,male,171,90.9,right,43,pacific_islander
 11161,male,175.3,84,right,33,black
 11170,male,193.5,108.6,right,24,white
 11172,male,173.8,75.8,right,39,white
 11174,male,177,83.3,right,21,white
 11180,male,172,87,left,23,black
-11182,male,167.3,72.8,either,24,asian
 11183,male,171.5,110.9,right,50,white
 11184,male,182.2,94.5,left,33,white
 11190,male,191.3,114.1,right,22,white
@@ -246,15 +236,12 @@ subjectid,gender,height,weight,handedness,age,race
 11258,male,181.4,89.3,right,45,white
 11265,male,183.6,108.7,right,39,white
 11277,male,162.8,77.5,right,29,white
-11278,male,164,80.1,right,39,asian
 11283,male,172.8,87.4,right,23,white
-11290,male,160.6,56.8,right,30,pacific_islander
 11292,male,186.1,117.4,right,25,white
 11296,male,176.1,86.3,right,50,hispanic
 11299,male,175.4,97,right,40,black
 11302,male,174.1,77.9,right,25,white
 11305,male,165.7,55.6,right,27,white
-11314,male,166,53.3,right,27,asian
 11317,male,167.8,93.3,right,28,white
 11322,male,173.5,86.6,right,42,black
 11324,male,175,109.6,right,43,hispanic
@@ -276,7 +263,6 @@ subjectid,gender,height,weight,handedness,age,race
 11359,male,175.5,102.1,right,30,white
 11360,male,170.3,78.4,right,53,white
 11361,male,176.2,110.5,right,29,white
-11367,male,172,81.9,right,34,asian
 11369,male,171.1,87.1,right,34,hispanic
 11373,male,192.7,86.9,right,19,black
 11374,male,178.4,77.5,right,31,white
@@ -310,15 +296,10 @@ subjectid,gender,height,weight,handedness,age,race
 11461,male,178.2,86,right,30,white
 11462,male,171.7,84.2,right,36,black
 11466,male,186,93.9,right,29,white
-11468,male,176.3,92.1,left,22,asian
 11474,male,162.4,72.4,right,22,black
-11488,male,172.3,88.6,right,24,asian
-11499,male,167.4,75.3,right,30,asian
 11501,male,174.4,85.7,right,30,black
 11505,male,174.8,98,right,36,black
-11542,male,180.5,74.4,right,42,asian
 11545,male,177.5,68,right,21,white
-11549,male,173,67.7,right,42,pacific_islander
 11551,male,174,73.5,right,20,white
 11556,male,175.2,64.9,right,32,black
 11561,male,167.3,76.6,right,32,white
@@ -344,7 +325,6 @@ subjectid,gender,height,weight,handedness,age,race
 11729,male,177.5,74.4,right,46,black
 11736,male,171.2,81.8,right,29,white
 11738,male,176.9,87.3,right,39,hispanic
-11751,male,165.1,69.7,right,33,other
 11753,male,177,82.4,right,25,white
 11754,male,192.8,99.9,right,35,white
 11755,male,175.1,86.7,right,32,hispanic
@@ -357,7 +337,6 @@ subjectid,gender,height,weight,handedness,age,race
 11839,male,172.2,86.9,left,24,hispanic
 11842,male,171.8,84,right,31,hispanic
 11848,male,172.6,83.4,left,31,black
-11855,male,176.7,73.3,right,38,native_american
 11857,male,170.1,73.5,right,28,white
 11862,male,174.4,76.6,right,19,white
 11863,male,168,85.8,right,23,black
@@ -385,8 +364,6 @@ subjectid,gender,height,weight,handedness,age,race
 11935,male,171.7,69.9,left,23,white
 11944,male,175.9,71.3,right,20,white
 11948,male,178.9,109.9,right,29,white
-11953,male,183.8,104.2,right,29,native_american
-11967,male,163.9,63.3,right,20,asian
 11969,male,167.4,92.1,right,44,black
 11977,male,174.5,95.5,right,38,white
 11979,male,166.2,70.9,left,21,white
@@ -423,12 +400,10 @@ subjectid,gender,height,weight,handedness,age,race
 12169,male,164.2,85.4,right,45,hispanic
 12172,male,178.9,100.8,right,28,white
 12174,male,166.4,80.7,right,46,white
-12175,male,188,102.1,right,27,native_american
 12178,male,174,92.2,right,33,hispanic
 12180,male,171,65.6,right,42,hispanic
 12181,male,173.8,86.4,right,22,white
 12184,male,177.7,81.2,right,28,white
-12185,male,161.3,70.9,right,43,pacific_islander
 12190,male,164.9,87,left,29,white
 12191,male,178.6,78,right,24,black
 12199,male,173,73.4,right,33,white
@@ -443,12 +418,10 @@ subjectid,gender,height,weight,handedness,age,race
 12244,male,180.7,107.5,right,21,white
 12247,male,171.8,65.7,right,18,white
 12253,male,175,69,right,19,white
-12258,male,171.6,70,right,36,pacific_islander
 12261,male,177,84.2,right,31,white
 12265,male,186.5,94.9,right,21,black
 12269,male,175.9,71.5,right,20,white
 12288,male,192.6,101,right,29,black
-12292,male,170.5,70,right,27,other
 12297,male,178.1,82.5,right,24,hispanic
 12301,male,176.6,81,right,22,white
 12303,male,181.4,80.7,right,22,white
@@ -470,7 +443,6 @@ subjectid,gender,height,weight,handedness,age,race
 12359,male,177.2,94.2,right,24,white
 12361,male,174.7,79.9,left,36,white
 12363,male,174.3,85.6,right,32,white
-12366,male,176.6,89.9,right,29,native_american
 12367,male,180,120.4,left,27,white
 12368,male,178.4,74.4,right,28,black
 12369,male,177.3,80.9,right,21,white
@@ -504,16 +476,13 @@ subjectid,gender,height,weight,handedness,age,race
 12450,male,174.8,89.2,right,27,white
 12451,male,180.5,75.1,right,28,black
 12452,male,173.5,77.8,right,40,white
-12454,male,168.7,83.1,right,30,asian
 12456,male,171,74.9,right,30,black
 12457,male,178.6,63,right,22,black
-12459,male,175.1,88,right,33,asian
 12463,male,175,72.2,right,28,white
 12467,male,175.8,62.1,right,18,white
 12479,male,178.5,75,right,20,white
 12480,male,176.3,96.9,right,41,white
 12505,male,170.8,85.4,right,33,white
-12506,male,176.3,90.7,right,38,asian
 12509,male,175,85.8,right,29,hispanic
 12511,male,171,86.6,right,39,white
 12515,male,180.3,92.7,right,20,white
@@ -522,7 +491,6 @@ subjectid,gender,height,weight,handedness,age,race
 12527,male,172.3,73.6,right,29,white
 12528,male,159.8,66.6,right,24,hispanic
 12538,male,171.7,78.4,right,26,black
-12544,male,173.7,120.8,left,22,native_american
 12545,male,181.4,99.9,right,24,white
 12551,male,172.1,80.4,right,29,white
 12554,male,181.8,95.1,right,37,white
@@ -531,7 +499,6 @@ subjectid,gender,height,weight,handedness,age,race
 12566,male,179.3,81.9,left,22,white
 12567,male,172.2,97.2,right,25,white
 12568,male,185,94.5,right,21,white
-12570,male,171.9,91.2,right,20,asian
 12573,male,174,76.1,right,34,black
 12574,male,173.1,90.2,right,27,white
 12575,male,184.2,81.3,right,29,white
@@ -573,7 +540,6 @@ subjectid,gender,height,weight,handedness,age,race
 12681,male,167.1,64.9,right,26,white
 12683,male,173.5,65.4,right,23,white
 12687,male,175.8,87.1,right,25,white
-12690,male,180.4,94.2,right,24,other
 12695,male,173.1,83.7,right,26,hispanic
 12700,male,177.9,74.5,right,31,black
 12715,male,185.2,108.7,right,25,white
@@ -607,7 +573,6 @@ subjectid,gender,height,weight,handedness,age,race
 12794,male,172.2,80.8,right,39,white
 12808,male,176.1,103.4,right,27,white
 12815,male,181.4,107.7,right,49,white
-12816,male,181.5,73.7,right,22,asian
 12818,male,180,95.9,right,50,white
 12820,male,182.2,86.7,right,40,white
 12821,male,165.4,77.6,right,43,white
@@ -615,7 +580,6 @@ subjectid,gender,height,weight,handedness,age,race
 12826,male,171.6,78.3,right,31,white
 12827,male,164.4,86.2,left,29,white
 12830,male,168.2,96,right,44,black
-12856,male,165.1,60.9,right,28,pacific_islander
 12861,male,170.4,90.4,right,39,white
 12865,male,178.4,80.3,right,33,white
 12880,male,164,75,right,20,hispanic
@@ -666,7 +630,6 @@ subjectid,gender,height,weight,handedness,age,race
 13045,male,170.2,82.1,right,30,white
 13046,male,177.7,75.9,right,24,white
 13047,male,172.8,77.4,right,25,white
-13048,male,174.6,77.5,right,30,asian
 13050,male,171.7,78.5,left,21,white
 13052,male,180.9,75.3,right,30,black
 13054,male,174.2,87.2,left,19,black
@@ -677,14 +640,12 @@ subjectid,gender,height,weight,handedness,age,race
 13070,male,183.1,86,right,18,black
 13071,male,179.8,93.2,right,20,white
 13080,male,177,69.9,right,19,black
-13084,male,173.3,72.3,right,18,native_american
 13094,male,170.6,70.4,right,20,hispanic
 13096,male,180.2,83.7,left,30,black
 13098,male,170.7,79.5,right,25,white
 13110,male,173.6,122.2,right,27,hispanic
 13112,male,178.7,97.4,left,31,white
 13113,male,161.3,68.4,right,31,white
-13117,male,163.8,58.4,right,23,pacific_islander
 13183,male,177.9,96.1,right,32,white
 13193,male,177,66.6,right,29,black
 13199,male,173.4,93.8,right,29,white
@@ -735,7 +696,6 @@ subjectid,gender,height,weight,handedness,age,race
 13693,male,175.6,99,right,44,white
 13694,male,175.6,82.2,right,45,white
 13700,male,177.4,87.6,left,45,white
-13705,male,168.1,86,right,43,asian
 13706,male,170.2,85.8,right,41,white
 13708,male,173.5,90.9,left,36,white
 13712,male,174.4,99.8,right,51,hispanic
@@ -748,7 +708,6 @@ subjectid,gender,height,weight,handedness,age,race
 13726,male,183.1,94.9,right,37,hispanic
 13727,male,185.2,99.3,right,42,white
 13728,male,182.1,99.5,right,38,white
-13749,male,175.4,101.8,right,46,native_american
 13754,male,168.4,73.9,right,49,white
 13756,male,170.9,90.1,right,49,white
 13759,male,182.6,97.1,left,41,black
@@ -761,7 +720,6 @@ subjectid,gender,height,weight,handedness,age,race
 13769,male,178.5,71.7,right,37,white
 13773,male,166.1,73.2,left,45,hispanic
 13774,male,178.4,107.5,right,40,black
-13777,male,177.3,81.3,right,48,pacific_islander
 13778,male,179,94.9,right,38,white
 13780,male,172.5,84.6,right,38,white
 13781,male,183,79.5,right,41,white
@@ -901,7 +859,6 @@ subjectid,gender,height,weight,handedness,age,race
 14012,male,178.2,81,right,46,black
 14013,male,178.2,80.8,right,46,black
 14014,male,173.4,82.6,right,51,hispanic
-14016,male,152.8,66.3,right,50,asian
 14019,male,175,72.5,right,22,white
 14021,male,179.3,76.6,right,41,white
 14022,male,170.6,76.6,right,44,white
@@ -909,8 +866,6 @@ subjectid,gender,height,weight,handedness,age,race
 14026,male,177.8,72.7,right,28,hispanic
 14029,male,170,79.7,right,35,white
 14030,male,168.9,95,right,57,white
-14031,male,165.9,87.4,right,33,asian
-14032,male,165.3,91.4,right,41,asian
 14033,male,164.7,85.2,right,42,hispanic
 14036,male,179.4,78.2,left,22,white
 14037,male,168.1,76.2,right,40,hispanic
@@ -1055,7 +1010,6 @@ subjectid,gender,height,weight,handedness,age,race
 14332,male,188.3,96.1,right,20,white
 14333,male,181.1,97.9,right,28,white
 14334,male,170,54,right,19,white
-14335,male,166.4,60.8,right,21,asian
 14342,male,173.3,73.9,right,24,hispanic
 14343,male,183.9,104.4,right,21,white
 14344,male,160,39.3,right,25,white
@@ -1087,7 +1041,6 @@ subjectid,gender,height,weight,handedness,age,race
 14395,male,171.2,90.2,right,22,white
 14396,male,167.4,60,right,24,white
 14397,male,172.9,91,right,32,hispanic
-14398,male,174.6,91.2,left,24,asian
 14401,male,160.9,83.7,right,28,white
 14402,male,179.7,82,right,31,white
 14403,male,180.9,115.5,right,32,white
@@ -1199,7 +1152,6 @@ subjectid,gender,height,weight,handedness,age,race
 14774,male,173.2,76.1,right,38,black
 14775,male,180.5,94.7,right,47,white
 14776,male,170.5,68.3,right,36,white
-14777,male,168.9,81.2,right,39,asian
 14778,male,177.5,85.4,right,38,white
 14779,male,180.9,97.4,left,29,white
 14780,male,180.8,96.8,right,41,white
@@ -1363,7 +1315,6 @@ subjectid,gender,height,weight,handedness,age,race
 15002,male,166.8,81.2,right,50,white
 15022,male,172.1,91.5,right,45,white
 15023,male,181.1,110.8,right,46,white
-15024,male,167.2,71,right,25,asian
 15026,male,177,106.7,right,38,white
 15027,male,172.2,96.6,right,47,black
 15028,male,181.1,115.8,right,44,white
@@ -1409,15 +1360,12 @@ subjectid,gender,height,weight,handedness,age,race
 15086,male,176.6,101.5,right,38,hispanic
 15087,male,174.2,82.7,right,49,black
 15089,male,178.1,95.4,left,30,white
-15091,male,177.8,94,right,42,native_american
 15092,male,166.4,59.8,right,33,white
 15093,male,166.6,88.9,right,24,hispanic
 15094,male,175.9,73.4,right,27,white
-15096,male,158.6,79.9,right,33,asian
 15097,male,171.4,65.7,right,18,white
 15098,male,178,77.9,right,22,white
 15102,male,176.6,99.5,right,29,black
-15105,male,162.8,66.4,right,40,asian
 15106,male,167.8,91,right,26,white
 15110,male,176.7,101.3,right,25,white
 15111,male,172.3,80.4,right,48,black
@@ -1427,7 +1375,6 @@ subjectid,gender,height,weight,handedness,age,race
 15117,male,173.3,80.9,right,19,white
 15119,male,174,78.7,left,22,white
 15120,male,167.9,86.7,right,46,white
-15121,male,166.7,67.4,left,30,asian
 15122,male,168,63.1,right,30,white
 15123,male,175.8,91,left,40,white
 15124,male,164.3,61.6,right,52,white
@@ -1498,7 +1445,6 @@ subjectid,gender,height,weight,handedness,age,race
 15230,male,176.7,79.8,right,21,white
 15231,male,180.2,84.3,right,22,white
 15232,male,181.7,91.4,left,21,white
-15233,male,177.2,68.6,right,21,asian
 15235,male,177.7,88.9,right,21,white
 15237,male,171.5,75.8,left,23,white
 15239,male,179.2,77.7,right,20,white
@@ -1514,7 +1460,6 @@ subjectid,gender,height,weight,handedness,age,race
 15253,male,174.5,82.7,left,20,black
 15256,male,173.2,81.1,right,24,black
 15257,male,171.3,87.8,right,24,white
-15259,male,164.4,57.9,right,22,asian
 15260,male,178.6,96.7,right,20,black
 15261,male,183.5,98.2,right,22,white
 15263,male,176.3,100.1,right,27,white
@@ -1561,7 +1506,6 @@ subjectid,gender,height,weight,handedness,age,race
 15435,male,170,72.6,right,47,white
 15442,male,159.7,72.1,right,32,white
 15443,male,182.7,96.2,right,30,white
-15444,male,173.6,65,right,22,asian
 15447,male,179.8,96.7,right,35,white
 15450,male,170.7,97.5,right,53,white
 15453,male,178.1,99.2,right,37,white
@@ -1579,12 +1523,10 @@ subjectid,gender,height,weight,handedness,age,race
 15483,male,184.9,115.1,right,39,white
 15484,male,179.6,91.6,right,31,white
 15487,male,182.2,104.4,right,36,white
-15488,male,163.5,66.4,right,25,pacific_islander
 15491,male,171,88.4,right,37,hispanic
 15492,male,170.3,86.6,left,38,white
 15494,male,174.9,91.2,left,29,white
 15495,male,174.2,80.2,left,35,white
-15499,male,168.7,79.6,left,37,asian
 15500,male,173.1,71.7,right,38,hispanic
 15502,male,193.1,82.1,right,31,white
 15503,male,177.5,91.6,right,39,white
@@ -1601,7 +1543,6 @@ subjectid,gender,height,weight,handedness,age,race
 15540,male,172.9,62.8,right,28,white
 15549,male,175.2,89.4,right,31,black
 15554,male,177.6,92.8,right,38,white
-15560,male,164.3,55.5,right,29,pacific_islander
 15561,male,157,61.8,right,28,hispanic
 15571,male,172.5,83.4,right,31,white
 15604,male,181,80.6,right,24,white
@@ -1615,7 +1556,6 @@ subjectid,gender,height,weight,handedness,age,race
 15629,male,184.2,76.4,right,26,white
 15632,male,172.8,102.7,right,31,black
 15638,male,182.7,87.9,right,22,hispanic
-15639,male,168,87.4,right,23,asian
 15641,male,182.2,100.8,left,19,white
 15646,male,161.4,71.4,right,23,hispanic
 15651,male,175.7,70.2,right,25,white
@@ -1628,7 +1568,6 @@ subjectid,gender,height,weight,handedness,age,race
 15700,male,171.3,76.9,left,33,white
 15704,male,168.5,92.7,left,39,white
 15720,male,177.4,93.7,right,24,white
-15721,male,173.7,94,right,34,native_american
 15724,male,179,106,right,21,white
 15725,male,174.7,79.9,right,20,black
 15728,male,187.7,95.4,right,30,white
@@ -1664,9 +1603,7 @@ subjectid,gender,height,weight,handedness,age,race
 15831,male,162,71,right,21,hispanic
 15853,male,172.1,70.4,left,21,black
 15858,male,172.8,65.3,right,22,white
-15862,male,176.7,64.6,right,26,asian
 15872,male,169.7,82.3,right,26,white
-15876,male,163.4,65.5,right,35,asian
 15883,male,177.2,92.1,right,27,white
 15889,male,187.7,74.1,right,25,white
 15892,male,178.2,73.7,left,26,white
@@ -1712,7 +1649,6 @@ subjectid,gender,height,weight,handedness,age,race
 15982,male,181.3,95.8,right,27,white
 15988,male,176.9,91.8,left,26,white
 15996,male,185.3,112.7,left,45,white
-15998,male,175,78.1,right,50,asian
 16005,male,172.1,63.4,right,26,white
 16008,male,170.6,99.8,right,29,white
 16012,male,167.3,64.7,right,30,white
@@ -1737,8 +1673,6 @@ subjectid,gender,height,weight,handedness,age,race
 16156,male,189,122.5,right,29,hispanic
 16160,male,165.3,72.3,left,19,hispanic
 16165,male,180.3,77.3,right,22,black
-16175,male,168.3,78.6,right,41,asian
-16179,male,182.2,97.2,right,29,asian
 16180,male,181.2,105.2,right,26,black
 16192,male,179,85.5,right,43,black
 16198,male,179.7,98.2,right,37,white
@@ -1762,7 +1696,6 @@ subjectid,gender,height,weight,handedness,age,race
 16310,male,184.2,98.1,right,35,white
 16313,male,179.2,88.6,right,28,white
 16329,male,172.8,68.9,right,36,white
-16330,male,182.5,81.8,right,39,asian
 16335,male,173.2,95.2,right,40,black
 16336,male,187,88.2,right,29,hispanic
 16338,male,164.9,90.5,right,31,black
@@ -1771,7 +1704,6 @@ subjectid,gender,height,weight,handedness,age,race
 16350,male,174.5,84.8,right,28,white
 16362,male,165.4,83.3,right,26,hispanic
 16365,male,184.7,86.1,right,29,white
-16366,male,173.5,83.2,right,23,native_american
 16367,male,173.4,84.8,right,39,black
 16370,male,194.2,97.2,right,31,black
 16371,male,191.9,84.7,right,22,black
@@ -1817,7 +1749,6 @@ subjectid,gender,height,weight,handedness,age,race
 16471,male,177.4,82.5,right,28,white
 16472,male,177.4,72.2,right,29,white
 16474,male,179.5,89.6,right,20,white
-16487,male,178.7,57.2,right,28,asian
 16489,male,174.3,95.8,right,28,white
 16490,male,183.5,80.8,right,28,white
 16491,male,183.8,82.4,right,28,hispanic
@@ -1828,7 +1759,6 @@ subjectid,gender,height,weight,handedness,age,race
 16500,male,184.4,86,left,38,white
 16501,male,169.3,64.5,right,19,white
 16599,male,167.4,74.3,right,46,black
-16602,male,178.6,82.5,right,31,asian
 16605,male,174,68.8,right,21,white
 16606,male,182.7,88.9,left,26,white
 16609,male,178.3,100.7,right,40,hispanic
@@ -1846,7 +1776,6 @@ subjectid,gender,height,weight,handedness,age,race
 16662,male,171.4,90.1,right,24,white
 16663,male,172.2,83.2,right,29,white
 16664,male,171,89.5,right,22,hispanic
-16674,male,183.8,67,left,26,asian
 16684,male,183,101.6,right,22,white
 16685,male,182.2,83.3,right,23,white
 16689,male,183.6,105.1,right,35,white
@@ -1855,7 +1784,6 @@ subjectid,gender,height,weight,handedness,age,race
 16733,male,176,68.2,right,20,white
 16734,male,179.3,77.5,right,31,white
 16735,male,172.5,85.1,left,39,white
-16736,male,178.3,81.7,right,40,asian
 16737,male,183.2,92.2,right,44,white
 16738,male,177.4,88.3,right,46,white
 16740,male,173.5,76.1,right,43,white
@@ -1863,7 +1791,6 @@ subjectid,gender,height,weight,handedness,age,race
 16745,male,181,91.8,right,27,white
 16746,male,164.1,88.8,right,22,white
 16747,male,176.2,68.6,right,26,white
-16769,male,173,72,right,30,asian
 16770,male,174.2,92,left,21,hispanic
 16772,male,175.6,69.8,right,19,white
 16773,male,171.3,82.8,right,22,white
@@ -1873,7 +1800,6 @@ subjectid,gender,height,weight,handedness,age,race
 16782,male,175.3,63.4,right,20,white
 16784,male,169.4,67.7,right,22,white
 16793,male,174,84.2,right,27,white
-16796,male,157.2,65.8,right,37,pacific_islander
 16797,male,169.6,72.4,right,30,white
 16799,male,182.8,90.3,right,41,white
 16802,male,175.4,86.3,right,47,white
@@ -1885,7 +1811,6 @@ subjectid,gender,height,weight,handedness,age,race
 16810,male,177.6,75.3,right,20,white
 16812,male,173.8,95.6,left,23,white
 16814,male,165.7,58.3,left,45,white
-16815,male,175.8,91.9,right,21,native_american
 16818,male,181.2,81.3,right,21,white
 16820,male,169.1,74.5,left,21,white
 16821,male,173.7,63.4,right,25,white
@@ -1931,7 +1856,6 @@ subjectid,gender,height,weight,handedness,age,race
 16924,male,182.2,76.7,right,20,white
 16925,male,176.3,95.1,right,39,white
 16929,male,170.8,77.1,right,22,white
-16930,male,163.9,81.9,right,54,native_american
 16931,male,172.8,97,left,50,white
 16932,male,171.4,73.4,right,29,white
 16933,male,185.3,107.4,right,30,white
@@ -2002,7 +1926,6 @@ subjectid,gender,height,weight,handedness,age,race
 17090,male,172.2,84.2,right,48,white
 17091,male,180.9,84.9,right,23,white
 17095,male,169.5,66.4,right,32,white
-17099,male,164.9,58.5,right,24,asian
 17100,male,171.9,80.9,right,42,white
 17101,male,173.1,87.1,right,27,white
 17102,male,177.3,118.9,left,23,white
@@ -2017,8 +1940,6 @@ subjectid,gender,height,weight,handedness,age,race
 17124,male,166.9,93.8,right,41,white
 17125,male,178.7,80.4,right,35,white
 17126,male,178,86.7,right,20,white
-17127,male,173.2,106.3,left,34,pacific_islander
-17129,male,160.4,70.5,right,28,asian
 17130,male,177,102.1,right,44,white
 17131,male,173.2,70.7,right,31,white
 17132,male,168.8,85.9,right,24,white
@@ -2031,7 +1952,6 @@ subjectid,gender,height,weight,handedness,age,race
 17152,male,175.4,73.7,left,31,black
 17156,male,174.2,81.6,left,22,white
 17169,male,171.5,71.4,right,23,white
-17191,male,158.5,62.7,right,20,asian
 17200,male,189.7,84.7,right,25,white
 17206,male,177.2,60.9,right,19,white
 17209,male,173.8,67.5,right,20,white
@@ -2065,12 +1985,10 @@ subjectid,gender,height,weight,handedness,age,race
 17283,male,168.4,106.5,right,44,white
 17284,male,174.5,90.4,right,21,white
 17285,male,181.4,72.4,right,20,white
-17286,male,164.2,65.9,left,25,asian
 17291,male,187.5,99.6,right,30,white
 17294,male,176.1,73.4,right,18,white
 17295,male,178.8,77.7,left,18,white
 17301,male,172.6,62.1,right,20,white
-17305,male,166,76.6,right,28,asian
 17314,male,159.8,69.3,right,28,hispanic
 17317,male,171.9,86.7,right,38,white
 17319,male,169.2,90.6,right,44,white
@@ -2086,7 +2004,6 @@ subjectid,gender,height,weight,handedness,age,race
 17339,male,183,90.1,left,31,white
 17341,male,174.8,115.7,right,41,hispanic
 17345,male,176.2,92.5,right,38,white
-17352,male,171.4,82.8,right,42,asian
 17356,male,171.6,79.8,right,34,white
 17358,male,167.7,109.2,right,40,white
 17363,male,171.4,100.1,right,42,white
@@ -2096,7 +2013,6 @@ subjectid,gender,height,weight,handedness,age,race
 17381,male,175.8,84.7,right,20,white
 17382,male,165.9,74.4,right,22,hispanic
 17384,male,179.3,82,right,21,white
-17386,male,172.7,111.9,right,28,pacific_islander
 17389,male,177.7,128.7,right,25,white
 17392,male,188.5,105,right,42,white
 17394,male,171.6,69.4,right,23,hispanic
@@ -2113,10 +2029,8 @@ subjectid,gender,height,weight,handedness,age,race
 17418,male,174.1,74.2,left,21,white
 17421,male,173,88.7,right,22,white
 17424,male,177.3,105.7,right,32,white
-17426,male,166.5,73.6,right,30,asian
 17428,male,174.7,69.6,right,22,white
 17429,male,177.9,113.7,right,23,white
-17434,male,162.9,58.4,either,35,asian
 17442,male,165.6,72,right,24,white
 17448,male,174.9,100.9,right,25,white
 17452,male,185.8,81.6,left,19,white
@@ -2131,7 +2045,6 @@ subjectid,gender,height,weight,handedness,age,race
 17509,male,165.9,81.4,right,37,black
 17511,male,189.6,77.1,right,21,black
 17512,male,173,77.4,right,21,hispanic
-17513,male,168.4,71.2,right,19,asian
 17525,male,175.7,84.4,right,23,hispanic
 17528,male,174.7,94.6,right,19,hispanic
 17530,male,164.6,67.4,right,21,hispanic
@@ -2187,7 +2100,6 @@ subjectid,gender,height,weight,handedness,age,race
 20084,male,169.4,90.6,right,45,hispanic
 20085,male,177.4,75.4,right,25,hispanic
 20086,male,179.8,93,right,39,hispanic
-20103,male,183.4,111.1,right,26,asian
 20112,male,186,89.5,right,19,black
 20115,male,166.4,69.4,right,21,white
 20123,male,180.3,93.5,left,24,white
@@ -2206,7 +2118,6 @@ subjectid,gender,height,weight,handedness,age,race
 20206,male,165.7,95.1,left,36,hispanic
 20209,male,178.4,86.7,right,31,black
 20211,male,175,76.1,either,21,white
-20221,male,176,77.2,right,30,asian
 20226,male,179,94.1,right,33,hispanic
 20232,male,172.1,70.8,right,26,white
 20234,male,182,92.2,either,25,white
@@ -2215,10 +2126,8 @@ subjectid,gender,height,weight,handedness,age,race
 20255,male,177.1,110.3,right,27,black
 20266,male,170.7,89.7,left,36,black
 20271,male,162.2,65.5,right,19,white
-20272,male,171.4,63,right,18,pacific_islander
 20279,male,173.9,77,right,21,white
 20280,male,180.3,95.1,right,19,white
-20286,male,180.1,69.6,right,34,asian
 20288,male,182.7,94.1,left,22,white
 20290,male,175,64.4,right,21,black
 20292,male,184.4,101.2,left,24,white
@@ -2229,7 +2138,6 @@ subjectid,gender,height,weight,handedness,age,race
 20329,male,165.9,70.2,right,36,white
 20376,male,173.6,59.5,right,25,white
 20377,male,171.3,70.5,left,21,white
-20384,male,168.2,70.4,right,22,asian
 20387,male,172.9,89.4,right,23,hispanic
 20398,male,166.2,80.4,right,20,white
 20399,male,176.6,92.4,right,25,white
@@ -2247,8 +2155,6 @@ subjectid,gender,height,weight,handedness,age,race
 20598,male,179.9,95.7,right,28,black
 20601,male,197,120.5,right,33,white
 20615,male,171.7,78.1,left,37,hispanic
-20616,male,169.7,63.9,right,22,asian
-20625,male,160.4,85.5,right,37,native_american
 20626,male,185.6,130.1,right,27,black
 20629,male,161.1,69.8,right,28,hispanic
 20630,male,172.7,99.2,right,48,black
@@ -2303,7 +2209,6 @@ subjectid,gender,height,weight,handedness,age,race
 20971,male,182.5,86.5,right,23,white
 20977,male,177.9,74.6,right,26,hispanic
 20992,male,176,77.5,right,20,black
-21002,male,180.6,72,right,19,asian
 21013,male,173.4,64.1,right,26,hispanic
 21015,male,181.3,84.2,right,26,black
 21032,male,182.3,73.3,right,20,white
@@ -2313,7 +2218,6 @@ subjectid,gender,height,weight,handedness,age,race
 21078,male,183.1,89.6,right,22,white
 21079,male,181.9,115.8,right,23,white
 21104,male,173.9,85.7,right,39,black
-21126,male,171.6,67.2,right,21,asian
 21130,male,166.4,89.3,right,21,black
 21141,male,167.4,97.7,left,33,hispanic
 21147,male,176.3,82.2,right,32,black
@@ -2338,8 +2242,6 @@ subjectid,gender,height,weight,handedness,age,race
 21390,male,172.1,80.1,right,21,hispanic
 21393,male,183.3,112.3,right,29,black
 21438,male,178.6,72.5,right,23,white
-21606,male,163.9,77.5,right,38,pacific_islander
-21607,male,168.9,63.7,right,28,pacific_islander
 21610,male,172,81.9,right,31,black
 21614,male,175.1,101.3,right,29,black
 21626,male,163.3,93.2,left,30,black
@@ -2350,11 +2252,9 @@ subjectid,gender,height,weight,handedness,age,race
 21676,male,181.8,104,right,31,black
 21738,male,176.7,90.8,right,30,white
 21742,male,166.9,92.7,right,26,hispanic
-21746,male,168.9,77.5,right,40,asian
 21748,male,171.3,76.4,right,30,black
 21756,male,178.1,70.2,right,19,white
 21759,male,175.6,87.4,right,26,white
-21764,male,167.4,72.7,right,26,pacific_islander
 21765,male,164.4,71.3,right,37,hispanic
 21776,male,183.8,71.4,right,22,black
 21804,male,173.3,75,right,22,hispanic
@@ -2369,11 +2269,9 @@ subjectid,gender,height,weight,handedness,age,race
 21896,male,166.6,91.2,right,29,black
 21898,male,168.7,78.6,either,36,black
 21917,male,176.8,78,right,20,hispanic
-21930,male,162.6,66.3,right,29,asian
 21938,male,168.4,64.2,right,23,hispanic
 21967,male,175.1,91.3,right,20,hispanic
 21992,male,185.2,85.8,right,24,hispanic
-22103,male,162.4,64.7,right,28,asian
 22106,male,172.3,77.7,right,21,white
 22107,male,177.5,114.6,right,21,white
 22108,male,178.4,59.1,right,18,white
@@ -2437,7 +2335,6 @@ subjectid,gender,height,weight,handedness,age,race
 23321,male,173.6,97.4,right,27,black
 23322,male,183.6,103.9,right,29,white
 23325,male,174,77.6,right,25,white
-23327,male,175,71.8,right,34,asian
 23337,male,177,88.4,right,25,white
 23338,male,180.7,59.6,right,22,black
 23340,male,162.3,60.5,right,25,white
@@ -2451,7 +2348,6 @@ subjectid,gender,height,weight,handedness,age,race
 23415,male,177.9,92.2,right,24,white
 23420,male,166.5,67.8,right,24,hispanic
 23423,male,169,71.5,right,20,hispanic
-23424,male,160.9,78.5,right,42,asian
 23425,male,188.8,73.2,right,25,white
 23427,male,169.7,73.9,right,20,white
 23428,male,181.8,72.3,right,22,white
@@ -2464,7 +2360,6 @@ subjectid,gender,height,weight,handedness,age,race
 23473,male,179.7,76.5,right,21,hispanic
 23477,male,172.3,97.4,left,31,black
 23479,male,178.4,84.6,right,30,black
-23484,male,168.8,73.4,right,23,asian
 23496,male,174.5,80.4,left,34,black
 23502,male,170.8,70.8,right,20,white
 23506,male,177.9,88,right,33,black
@@ -2522,10 +2417,8 @@ subjectid,gender,height,weight,handedness,age,race
 24123,male,174,84.1,right,26,white
 24127,male,175.2,64.3,right,24,white
 24130,male,182.8,94.8,left,25,hispanic
-24136,male,170.7,66.9,right,24,native_american
 24139,male,172.1,82.3,right,30,white
 24163,male,185.2,76.8,right,20,white
-24168,male,165.1,81.5,right,43,asian
 24169,male,170.7,83.8,right,29,hispanic
 24171,male,179.5,76.8,right,28,black
 24175,male,170.7,69.5,right,26,white
@@ -2537,15 +2430,12 @@ subjectid,gender,height,weight,handedness,age,race
 24227,male,180.2,64,right,25,black
 24237,male,172.3,78.7,right,19,white
 24245,male,172.1,111.2,right,23,white
-24246,male,178.3,83.7,left,24,native_american
 24249,male,161.8,66,right,24,white
 24253,male,172.1,78.1,right,33,hispanic
 24254,male,182.9,82.1,right,21,white
-24257,male,165.3,92.2,right,32,pacific_islander
 24258,male,180.4,74.1,right,23,white
 24264,male,178.5,71.8,right,24,black
 24265,male,177.1,83.6,left,22,white
-24266,male,167.6,72.5,right,21,asian
 24270,male,164.6,64.5,right,26,white
 24272,male,185.9,76.6,right,28,white
 24273,male,171,74.4,left,19,black
@@ -2560,7 +2450,6 @@ subjectid,gender,height,weight,handedness,age,race
 24300,male,168.7,104.9,right,23,white
 24301,male,170.5,66.7,right,25,white
 24303,male,181,86.9,right,24,black
-24305,male,183.1,100.7,right,22,pacific_islander
 24319,male,166.3,75.8,right,26,white
 24324,male,180.9,88.9,right,28,black
 24328,male,179.1,90.2,right,37,black
@@ -2593,14 +2482,11 @@ subjectid,gender,height,weight,handedness,age,race
 24467,male,179,90,right,22,white
 24468,male,168.8,67.2,right,30,white
 24483,male,168.4,90.4,right,30,white
-24487,male,175.9,114.4,left,26,asian
-24488,male,168.4,78.5,right,24,asian
 24489,male,175.5,75.4,right,20,hispanic
 24491,male,171.8,95.2,right,25,white
 24502,male,174.5,97.8,right,36,hispanic
 24509,male,195.3,106.9,right,32,white
 24529,male,180.8,83.5,right,26,white
-24535,male,177.9,69,right,22,asian
 24537,male,177.9,66,left,28,black
 24538,male,176.7,78.6,right,31,hispanic
 24541,male,165.7,72.9,right,35,hispanic
@@ -2625,11 +2511,8 @@ subjectid,gender,height,weight,handedness,age,race
 24661,male,175.6,72.6,right,28,hispanic
 24665,male,163.7,64.5,right,32,hispanic
 24671,male,170.4,74.3,right,23,white
-24681,male,182.2,112.2,right,32,pacific_islander
 24684,male,176.7,77.5,right,23,white
 24698,male,180.9,76.9,right,22,white
-24707,male,177.6,96.2,right,20,pacific_islander
-24708,male,179.8,91.6,right,20,native_american
 24712,male,175.8,84.8,left,27,black
 24718,male,167.3,75.3,right,26,white
 24721,male,181.7,80.2,right,25,white
@@ -2637,7 +2520,6 @@ subjectid,gender,height,weight,handedness,age,race
 24764,male,173.6,74.6,right,31,white
 24766,male,174.8,82.9,right,40,white
 24767,male,177.4,82.7,right,22,white
-24779,male,173.6,73.8,right,36,asian
 24797,male,174.5,76.4,right,24,white
 24804,male,167.2,75.8,right,30,white
 24817,male,161.2,74.1,left,40,white
@@ -2675,7 +2557,6 @@ subjectid,gender,height,weight,handedness,age,race
 24982,male,178.5,74.2,right,22,black
 24984,male,172.6,99.8,right,33,white
 24988,male,174.1,68.2,left,21,white
-24991,male,180.4,74.3,right,25,pacific_islander
 24995,male,178.8,80.8,right,24,white
 24997,male,182.9,95.8,right,28,white
 25000,male,183.6,112.4,right,41,white
@@ -2737,7 +2618,6 @@ subjectid,gender,height,weight,handedness,age,race
 26615,male,178.6,78.2,right,20,white
 26616,male,169.7,70.3,right,19,white
 26617,male,183,95,right,21,white
-26621,male,169.7,61.4,right,18,asian
 26624,male,181.6,75.6,right,22,black
 26625,male,166,73.5,right,28,black
 26626,male,168.1,78.1,right,20,white
@@ -2751,7 +2631,6 @@ subjectid,gender,height,weight,handedness,age,race
 26639,male,167.3,88.8,right,18,white
 26640,male,176,82.3,right,23,white
 26646,male,187.4,76.3,right,19,white
-26647,male,173.9,94.7,right,20,asian
 26649,male,175.3,79.7,right,19,white
 26651,male,183.9,91.8,right,18,white
 26654,male,180.3,82.5,right,19,white
@@ -2764,7 +2643,6 @@ subjectid,gender,height,weight,handedness,age,race
 26668,male,179.3,88.8,right,19,white
 26669,male,177.8,79.4,right,22,white
 26671,male,182.1,84.3,right,25,white
-26673,male,168.5,70.7,right,20,pacific_islander
 26674,male,172.2,88.5,left,29,white
 26676,male,178.6,109.3,right,23,hispanic
 26677,male,178,75.4,left,27,white
@@ -2784,7 +2662,6 @@ subjectid,gender,height,weight,handedness,age,race
 26707,male,170.3,66.7,right,18,hispanic
 26708,male,174.4,74,right,21,black
 26709,male,167.7,60.6,right,29,white
-26714,male,173.6,82.6,right,17,asian
 26720,male,178.6,74.7,right,20,white
 26726,male,185.8,107.1,left,33,white
 26727,male,183.3,86.2,right,19,black
@@ -2824,7 +2701,6 @@ subjectid,gender,height,weight,handedness,age,race
 26792,male,186.5,97.2,right,29,white
 26796,male,180.6,83.5,right,51,white
 26797,male,174,81.6,right,28,white
-26799,male,171.3,81.6,right,25,asian
 26800,male,174,68.5,right,42,hispanic
 26803,male,174,85,right,23,black
 26806,male,177.6,72.3,right,22,black
@@ -2857,14 +2733,12 @@ subjectid,gender,height,weight,handedness,age,race
 26862,male,186.7,97.2,right,20,white
 26865,male,168,61.5,right,21,white
 26867,male,175.4,72.7,right,33,white
-26869,male,162.4,65.7,right,28,asian
 26870,male,162.9,68.6,right,21,white
 26871,male,179.4,69.1,right,21,white
 26872,male,158.8,73,right,27,hispanic
 26874,male,173.8,73.8,right,37,black
 26878,male,180.6,86.4,left,45,black
 26881,male,179.8,78.1,right,31,black
-26883,male,162.5,78.7,right,49,asian
 26884,male,170.8,105.8,right,27,white
 26885,male,167.9,86.1,right,28,hispanic
 26886,male,175,83.9,right,31,black
@@ -2890,7 +2764,6 @@ subjectid,gender,height,weight,handedness,age,race
 26932,male,191.9,131.2,left,32,black
 26934,male,172.8,93.7,right,20,black
 26936,male,166.9,76.3,right,20,black
-26938,male,169.7,62.6,right,26,asian
 26942,male,177.3,88.7,right,38,white
 26944,male,176.4,71,left,23,white
 26946,male,171.6,88.7,right,31,white
@@ -2926,7 +2799,6 @@ subjectid,gender,height,weight,handedness,age,race
 27010,male,173.1,71.7,right,21,white
 27011,male,174.4,77.6,right,22,hispanic
 27016,male,167.3,74.9,right,19,white
-27017,male,164.8,69.4,right,19,asian
 27022,male,186.8,80.1,right,22,black
 27023,male,177.3,77.8,right,19,white
 27024,male,192.3,92.4,right,23,white
@@ -2956,8 +2828,6 @@ subjectid,gender,height,weight,handedness,age,race
 27115,male,172.4,77.2,right,24,white
 27119,male,181.2,80.1,left,24,white
 27120,male,166.4,72.5,right,24,white
-27122,male,170.6,66.7,right,18,asian
-27123,male,168.7,68,left,40,asian
 27124,male,185.8,107.9,right,25,white
 27125,male,162.9,74.5,right,27,hispanic
 27126,male,185.6,79.2,left,27,white
@@ -3027,11 +2897,8 @@ subjectid,gender,height,weight,handedness,age,race
 27271,male,165.4,84.3,right,41,white
 27272,male,183.4,92.5,right,41,white
 27273,male,181,92.6,left,26,white
-27274,male,172.2,75,right,53,asian
 27275,male,164.6,73.3,right,48,white
 27276,male,172.8,81.5,left,32,white
-27278,male,176.1,87.5,right,34,asian
-27279,male,178,77,right,28,asian
 27280,male,171.9,86.9,right,42,white
 27281,male,183,85,right,25,white
 27283,male,175.1,96.2,right,45,white
@@ -3058,13 +2925,11 @@ subjectid,gender,height,weight,handedness,age,race
 27306,male,171.7,90.7,right,38,white
 27311,male,181.1,87.5,right,37,white
 27312,male,178,90.2,right,24,white
-27314,male,166.4,66.3,right,23,asian
 27315,male,175.1,74,right,23,black
 27316,male,197.2,109.3,right,31,white
 27319,male,169.9,66.1,right,23,black
 27320,male,181.9,99.3,right,26,white
 27322,male,166.5,76.6,right,43,white
-27324,male,156.7,61.9,right,36,pacific_islander
 27325,male,168.6,79.2,left,28,black
 27327,male,177.1,98.4,right,51,white
 27328,male,180,77.4,right,28,black
@@ -3074,7 +2939,6 @@ subjectid,gender,height,weight,handedness,age,race
 27334,male,176.1,88.4,right,23,white
 27336,male,185,83.6,left,26,white
 27339,male,181.6,81,right,31,white
-27340,male,177.2,93.6,right,21,native_american
 27341,male,173.5,61.9,right,20,white
 27347,male,170.5,77.2,right,24,hispanic
 27349,male,180.3,90.8,right,25,black
@@ -3091,7 +2955,6 @@ subjectid,gender,height,weight,handedness,age,race
 27367,male,167.8,80.1,right,24,white
 27369,male,173.8,96.9,right,29,white
 27370,male,173.9,77.5,right,30,white
-27371,male,157.7,56.4,left,23,asian
 27372,male,170.7,72.8,right,26,black
 27373,male,186.3,103.3,right,23,white
 27375,male,182,71,right,26,white
@@ -3108,12 +2971,10 @@ subjectid,gender,height,weight,handedness,age,race
 27402,male,187.2,97.9,right,26,white
 27404,male,172.6,91.7,right,28,white
 27405,male,176.4,85,right,51,white
-27407,male,167,54.2,left,33,asian
 27410,male,176.5,94.8,right,48,white
 27411,male,172,85.8,left,48,white
 27412,male,171.8,91.3,right,49,white
 27415,male,178.4,83.4,right,41,white
-27416,male,165.1,89.1,right,49,pacific_islander
 27417,male,180.8,98.8,right,43,white
 27418,male,174,80.1,right,35,white
 27419,male,171,94,right,43,white
@@ -3124,10 +2985,7 @@ subjectid,gender,height,weight,handedness,age,race
 27427,male,161.6,76.9,right,18,white
 27428,male,174.4,62.7,left,19,black
 27429,male,181.6,85.5,right,25,white
-27430,male,174.9,85.5,right,29,asian
 27431,male,174.9,88.1,right,28,hispanic
-27432,male,166.8,76.5,right,34,asian
-27433,male,157.5,62.8,right,46,asian
 27434,male,170.8,75.6,right,32,white
 27436,male,164.5,81.3,left,37,black
 27485,male,182.5,95.6,right,23,white
@@ -3143,7 +3001,6 @@ subjectid,gender,height,weight,handedness,age,race
 27505,male,173,84.6,right,54,white
 27506,male,187,122.3,right,46,white
 27508,male,187,100,right,38,white
-27509,male,178,83.5,right,36,pacific_islander
 27512,male,176.1,69,right,29,white
 27513,male,179.3,100.2,right,42,hispanic
 27514,male,178.1,94.1,right,23,white
@@ -3159,7 +3016,6 @@ subjectid,gender,height,weight,handedness,age,race
 27531,male,173.6,102.3,right,33,white
 27535,male,164.9,94.9,right,47,white
 27536,male,176.7,95,right,40,white
-27537,male,183.1,113.5,right,36,pacific_islander
 27538,male,162.1,73.5,right,41,white
 27539,male,174.7,74.8,right,28,white
 27540,male,172.8,76.5,right,28,white
@@ -3174,7 +3030,6 @@ subjectid,gender,height,weight,handedness,age,race
 27557,male,199.3,94.7,right,27,white
 27560,male,184.7,95.1,right,25,white
 27563,male,169.4,71.4,right,28,white
-27564,male,167.3,57.8,right,26,asian
 27566,male,187.4,80.3,left,28,white
 27568,male,173.6,77.5,right,29,white
 27569,male,178.9,93.8,right,29,white
@@ -3204,18 +3059,14 @@ subjectid,gender,height,weight,handedness,age,race
 27605,male,169.6,82.8,right,31,white
 27606,male,179.8,89.1,right,23,white
 27607,male,176.8,94.9,right,30,hispanic
-27641,male,162.9,70.2,right,31,asian
 27642,male,186.6,122.3,left,43,white
 27643,male,189.4,95.4,right,38,white
 27645,male,164.8,72.7,right,36,white
 27646,male,178.8,100.8,right,28,hispanic
 27647,male,180.8,88,right,56,white
 27649,male,184.7,110.3,left,39,white
-27651,male,167.6,70,left,29,pacific_islander
 27655,male,177.4,86.1,right,30,white
-27656,male,166,78.6,right,28,asian
 27657,male,176,79.2,right,23,white
-27661,male,175.7,78.5,right,22,pacific_islander
 27662,male,169.8,53.3,right,28,white
 27668,male,176.1,67.7,right,23,white
 27670,male,167.8,84.3,right,22,white
@@ -3239,7 +3090,6 @@ subjectid,gender,height,weight,handedness,age,race
 27704,male,167.8,82.3,right,40,white
 27706,male,172.6,92.4,right,35,white
 27707,male,168.9,80.4,right,43,black
-27708,male,185.2,81.6,right,23,asian
 27709,male,186.4,87.1,right,21,white
 27710,male,179,79.7,right,23,white
 27711,male,184.5,99.1,right,22,hispanic
@@ -3263,13 +3113,10 @@ subjectid,gender,height,weight,handedness,age,race
 27744,male,167.2,77.5,right,47,white
 27746,male,174,77.9,right,47,black
 27747,male,175.1,67,right,28,white
-27748,male,167,51.6,right,31,asian
-27751,male,176.8,88.7,right,43,asian
 27752,male,166.4,64.4,right,42,white
 27753,male,185.5,94.9,right,31,white
 27756,male,167.5,71,right,19,white
 27758,male,169.3,74.8,right,19,hispanic
-27759,male,180.7,80.8,left,23,asian
 27760,male,179,74.1,left,23,white
 27762,male,171.1,61.1,right,33,white
 27764,male,167.8,65.8,right,23,white
@@ -3293,7 +3140,6 @@ subjectid,gender,height,weight,handedness,age,race
 27800,male,181.8,92.1,right,40,white
 27801,male,178.7,104.3,right,49,white
 27802,male,180.5,62.9,right,31,white
-27803,male,172.7,80,right,23,asian
 27804,male,174.8,86.9,right,47,white
 27807,male,187.3,94.8,right,32,white
 27810,male,169.5,67.2,right,34,black
@@ -3414,8 +3260,6 @@ subjectid,gender,height,weight,handedness,age,race
 28035,male,180.5,92.6,right,41,white
 28037,male,175.5,108.4,right,43,white
 28038,male,170.2,56.2,right,25,hispanic
-28039,male,174.6,87.4,right,23,pacific_islander
-28040,male,167,63.3,right,30,asian
 28041,male,162.4,82.6,right,49,hispanic
 28042,male,175.1,103.3,right,50,black
 28043,male,177,77.2,right,52,black
@@ -3425,7 +3269,6 @@ subjectid,gender,height,weight,handedness,age,race
 28048,male,193,68.9,right,38,black
 28050,male,179.6,85.3,left,22,white
 28051,male,165.8,98.4,right,50,black
-28052,male,158.2,68.1,right,39,asian
 28053,male,180.7,112.9,right,26,white
 28054,male,192.9,93.9,right,28,black
 28056,male,174.3,99.4,right,40,black
@@ -3483,7 +3326,6 @@ subjectid,gender,height,weight,handedness,age,race
 28140,male,168.4,76.2,right,24,white
 28142,male,186.5,89.4,right,32,white
 28145,male,173.2,79.1,right,32,white
-28146,male,165.5,67.7,right,36,asian
 28147,male,175.9,85,right,21,white
 28149,male,176.4,75,left,21,white
 28150,male,174,78,right,21,white
@@ -3491,7 +3333,6 @@ subjectid,gender,height,weight,handedness,age,race
 28152,male,165.6,70.6,right,30,white
 28184,male,168.1,59.6,right,22,white
 28185,male,165.8,86.1,left,21,black
-28186,male,158.8,55.2,right,21,asian
 28188,male,175.4,72.3,right,26,white
 28190,male,178.8,90.7,right,22,white
 28192,male,180.6,69,right,19,hispanic
@@ -3512,7 +3353,6 @@ subjectid,gender,height,weight,handedness,age,race
 28219,male,167.5,70,left,29,hispanic
 28220,male,167.5,78.5,right,37,hispanic
 28222,male,169,87,right,43,white
-28224,male,159.3,70,right,34,asian
 28231,male,173.7,82.4,right,47,white
 28235,male,169.3,81.3,left,42,white
 28237,male,170.6,87.3,right,47,white
@@ -3576,7 +3416,6 @@ subjectid,gender,height,weight,handedness,age,race
 28389,male,163.1,67.2,either,36,black
 28390,male,174,93.8,right,53,white
 28391,male,174.9,91.3,right,36,hispanic
-28392,male,175.7,94.7,right,39,asian
 28393,male,187,96.4,right,47,white
 28394,male,175.4,72,right,21,white
 28395,male,170,66.6,right,20,white
@@ -3600,7 +3439,6 @@ subjectid,gender,height,weight,handedness,age,race
 28422,male,177.4,77.4,right,31,white
 28423,male,182.3,98.9,right,19,white
 28424,male,175.3,84.4,right,32,white
-28425,male,179.3,85.1,right,24,asian
 28427,male,167.9,73.1,right,32,white
 28428,male,168.2,77.6,right,26,hispanic
 28429,male,176.1,75.4,right,19,white
@@ -3713,7 +3551,6 @@ subjectid,gender,height,weight,handedness,age,race
 28646,male,169,104.9,right,41,black
 28647,male,177.3,99.4,right,37,white
 28648,male,174.4,85.9,right,31,white
-28652,male,173.3,72.9,right,24,asian
 28653,male,181.3,69.6,left,26,white
 28654,male,183.4,103.8,left,42,white
 28655,male,186.4,94.4,right,23,white
@@ -3730,11 +3567,9 @@ subjectid,gender,height,weight,handedness,age,race
 28671,male,168.6,78.3,right,48,black
 28673,male,162.1,90,right,23,white
 28674,male,162.3,67.3,right,25,white
-28675,male,162.9,79,right,28,asian
 28677,male,170.7,101.5,right,53,black
 28700,male,171.7,57.4,right,25,white
 28701,male,176.7,76.5,left,24,white
-28702,male,184.7,91.9,left,31,asian
 28703,male,179,79.7,right,25,white
 28707,male,169.7,73.1,right,22,white
 28708,male,175.8,106.5,left,47,white
@@ -3761,7 +3596,6 @@ subjectid,gender,height,weight,handedness,age,race
 28770,male,173.7,90.2,right,24,white
 28771,male,189.1,79.4,right,25,white
 28772,male,178.8,84.2,left,25,white
-28773,male,171.8,93.2,right,32,native_american
 28774,male,164,66.7,right,29,white
 28775,male,183.6,104.3,left,38,white
 28777,male,160.4,73.6,right,26,white
@@ -3774,7 +3608,6 @@ subjectid,gender,height,weight,handedness,age,race
 28792,male,170.3,81.1,right,33,white
 28793,male,177,59.1,right,25,white
 28794,male,174.7,92.4,right,33,white
-28795,male,184.8,93.8,right,42,native_american
 28799,male,178.8,73.5,right,20,white
 28802,male,181.4,88.5,right,23,white
 28805,male,175.4,85.5,right,30,white
@@ -3818,10 +3651,8 @@ subjectid,gender,height,weight,handedness,age,race
 28916,male,179.3,82.6,right,22,white
 28917,male,175.8,91.1,right,27,white
 28918,male,177.2,96.7,right,33,white
-28919,male,169.4,78.9,right,34,native_american
 28920,male,166.1,73.3,right,21,white
 28922,male,173,90.1,right,20,white
-28923,male,165.3,69.3,right,22,pacific_islander
 28925,male,175.3,81.7,right,23,white
 28926,male,174,84.6,right,28,hispanic
 28927,male,171.1,75.2,right,27,white
@@ -3834,7 +3665,6 @@ subjectid,gender,height,weight,handedness,age,race
 28937,male,176.8,82.5,right,25,white
 28944,male,168.7,80.3,right,23,white
 28945,male,170,74,right,34,white
-28948,male,174.9,96.6,right,40,native_american
 28949,male,171,87.9,left,37,white
 28952,male,192.4,75.7,right,24,white
 28953,male,172.9,88.2,right,40,black
@@ -3900,11 +3730,9 @@ subjectid,gender,height,weight,handedness,age,race
 29077,male,173.2,92.4,right,46,white
 29079,male,184.6,76.7,right,28,white
 29080,male,173.7,83.9,right,20,black
-29081,male,170.6,86.8,right,38,pacific_islander
 29082,male,186.5,110.8,left,56,black
 29084,male,185.8,76.2,left,25,white
 29085,male,180,96.8,right,51,white
-29087,male,164,71.1,right,25,asian
 29089,male,176.1,101,right,28,white
 29090,male,180.9,101.2,right,30,white
 29092,male,167.5,87,right,32,white
@@ -3923,14 +3751,12 @@ subjectid,gender,height,weight,handedness,age,race
 29130,male,172.7,68.7,right,27,white
 29131,male,182.8,92.5,right,22,white
 29132,male,168.3,76.2,right,34,white
-29133,male,170.9,80.4,right,20,native_american
 29134,male,169.6,92.1,right,22,white
 29136,male,179,91.4,right,22,white
 29139,male,179.5,79.6,right,24,white
 29140,male,173.6,74.6,right,22,white
 29142,male,177.8,72.6,right,24,white
 29143,male,177.1,68.7,left,20,white
-29144,male,184.5,89.2,right,21,native_american
 29145,male,173.8,69,right,22,white
 29146,male,171,68.2,right,20,white
 29147,male,164.5,75.7,right,44,white
@@ -3966,7 +3792,6 @@ subjectid,gender,height,weight,handedness,age,race
 29194,male,169.8,78.2,right,22,white
 29195,male,172.2,96.9,right,33,white
 29196,male,166.3,86.9,right,42,white
-29198,male,181.3,95.6,either,26,native_american
 29199,male,178.4,87.6,right,40,white
 29200,male,185.4,89.2,right,57,black
 29203,male,165.3,60.9,right,20,white
@@ -3996,7 +3821,6 @@ subjectid,gender,height,weight,handedness,age,race
 29245,male,191.3,85.3,right,38,white
 29247,male,169.1,75.3,right,24,white
 29248,male,182.2,93.3,right,36,white
-29249,male,171.8,84.9,right,29,asian
 29250,male,178.9,95.7,right,33,black
 29251,male,167.4,75.5,right,26,white
 29252,male,169.2,77.3,right,40,white
@@ -4020,7 +3844,6 @@ subjectid,gender,height,weight,handedness,age,race
 29279,male,170.6,78.1,right,20,black
 29282,male,174.9,71.3,right,23,white
 29300,male,172.1,83.1,right,23,white
-29302,male,183.8,77.1,left,20,native_american
 29305,male,171.4,73.1,right,27,white
 29306,male,168.3,77.5,right,20,white
 29308,male,168.8,72.7,right,18,white
@@ -4035,8 +3858,6 @@ subjectid,gender,height,weight,handedness,age,race
 29322,male,166.1,69.7,right,23,white
 29323,male,173.7,94.7,right,22,white
 29325,male,170.2,79.1,right,22,white
-29326,male,163.6,73.6,left,22,asian
-29329,male,170.9,85.5,right,30,native_american
 29330,male,171,103.6,right,21,white
 29332,male,166.9,75.9,right,29,white
 29339,male,179,93.2,right,31,black
@@ -4053,17 +3874,13 @@ subjectid,gender,height,weight,handedness,age,race
 29355,male,178.1,88.6,right,27,white
 29357,male,170,70.3,right,23,white
 29359,male,178,75,right,33,white
-29361,male,175.8,95.3,right,27,pacific_islander
-29365,male,181.8,78.5,right,23,native_american
 29411,male,170.3,98,left,27,black
 29413,male,170.6,71.7,right,21,white
 29414,male,172.6,64.2,right,20,white
-29415,male,176.3,78.4,right,23,native_american
 29417,male,165.2,73.4,right,41,white
 29420,male,180.5,100,right,23,white
 29421,male,187.4,96.2,either,21,white
 29423,male,181.6,80.9,right,34,white
-29424,male,174,79.1,right,26,asian
 29426,male,168.1,68,right,19,white
 29428,male,165.5,65.6,right,25,white
 29429,male,176.3,84.1,right,23,white
@@ -4088,7 +3905,6 @@ subjectid,gender,height,weight,handedness,age,race
 10051,female,157.2,88.6,right,45,white
 10053,female,170.7,83.7,left,44,black
 10061,female,164.4,73.2,right,21,white
-10070,female,167.1,76,right,23,pacific_islander
 10077,female,152.1,54.5,left,24,black
 10080,female,159,68.4,right,37,white
 10095,female,170.7,99,right,33,black
@@ -4125,7 +3941,6 @@ subjectid,gender,height,weight,handedness,age,race
 11529,female,168.5,68.9,right,28,white
 11530,female,165.6,75.8,right,25,white
 11533,female,160.3,73.1,right,26,white
-11537,female,160.8,74.8,right,35,pacific_islander
 11593,female,166.4,80.6,right,22,white
 11742,female,161.9,71.4,left,40,white
 11767,female,162,71.2,right,43,black
@@ -4153,10 +3968,8 @@ subjectid,gender,height,weight,handedness,age,race
 11993,female,161.7,61.8,right,27,hispanic
 11996,female,155.5,64.5,right,20,black
 12036,female,157.8,55.7,left,36,white
-12037,female,158.1,61.4,right,44,asian
 12040,female,169.8,66.8,right,34,white
 12067,female,155.4,73,right,26,hispanic
-12071,female,175.6,73.7,right,22,native_american
 12076,female,156.6,69.3,right,29,hispanic
 12081,female,165.1,75.7,right,44,black
 12082,female,158.5,74,right,38,white
@@ -4167,7 +3980,6 @@ subjectid,gender,height,weight,handedness,age,race
 12703,female,168.7,62.2,right,20,white
 12706,female,169.8,78.2,right,33,white
 12708,female,153,60.8,right,36,black
-12874,female,158.1,67.4,right,29,native_american
 12881,female,160.9,68.6,right,23,black
 12883,female,164.4,67,right,35,black
 12901,female,154.8,63.5,right,19,black
@@ -4182,12 +3994,9 @@ subjectid,gender,height,weight,handedness,age,race
 13141,female,160.7,68.3,left,42,white
 13144,female,156,47.1,right,33,white
 13147,female,162.5,66.5,right,30,hispanic
-13151,female,167,68.5,right,36,asian
 13156,female,161.6,57.9,right,20,hispanic
 13163,female,158.2,64.7,right,46,white
-13165,female,173,59.1,right,20,pacific_islander
 13170,female,150.1,45,right,20,hispanic
-13171,female,151.5,57.2,right,40,pacific_islander
 13179,female,157.6,72.1,right,31,white
 13181,female,162.8,67.6,right,32,black
 13268,female,158.6,71.1,left,32,white
@@ -4195,7 +4004,6 @@ subjectid,gender,height,weight,handedness,age,race
 13274,female,157.6,53.6,right,24,white
 13275,female,162.6,63.9,right,32,black
 13284,female,160.4,62.8,right,32,hispanic
-13288,female,167.3,78.8,right,27,asian
 13290,female,164.2,59.8,right,27,white
 13297,female,153.8,75.2,left,41,hispanic
 13357,female,157.4,68.6,right,38,black
@@ -4204,8 +4012,6 @@ subjectid,gender,height,weight,handedness,age,race
 13370,female,173.3,74.2,either,20,white
 13371,female,152.6,52.2,right,26,black
 13386,female,173.2,76.7,right,42,white
-13393,female,162.4,66.1,right,20,native_american
-13397,female,150.7,50.5,right,34,asian
 13413,female,156,63.7,right,31,white
 13437,female,164,66.6,right,20,black
 13441,female,167.5,61,right,21,hispanic
@@ -4285,14 +4091,12 @@ subjectid,gender,height,weight,handedness,age,race
 14121,female,162.1,55.9,right,27,white
 14122,female,162.3,56.6,right,41,white
 14124,female,163.3,58.5,left,22,hispanic
-14125,female,152.6,62.8,right,26,pacific_islander
 14126,female,157,46.7,right,21,hispanic
 14127,female,161.6,59.9,right,21,white
 14128,female,169,64.2,right,32,white
 14136,female,163.7,81.3,right,27,white
 14137,female,171.8,71.9,right,23,hispanic
 14138,female,158.8,54.8,right,24,white
-14179,female,152,48.5,left,28,asian
 14181,female,161.8,65.8,right,35,black
 14182,female,163.1,75.3,right,23,black
 14185,female,164.2,63.6,right,37,hispanic
@@ -4310,7 +4114,6 @@ subjectid,gender,height,weight,handedness,age,race
 14199,female,177.3,74,right,21,black
 14200,female,168,79.2,right,22,black
 14201,female,164.5,58.1,right,22,black
-14202,female,155.8,72.7,left,21,asian
 14219,female,166.5,70.4,right,37,white
 14220,female,160.1,65.3,right,44,white
 14221,female,165.8,72.5,right,26,white
@@ -4366,7 +4169,6 @@ subjectid,gender,height,weight,handedness,age,race
 15011,female,164,61.5,right,23,white
 15012,female,161.6,52.9,right,23,white
 15013,female,168.4,84.7,left,32,white
-15014,female,164.9,59.6,right,29,asian
 15015,female,167.7,66.6,right,37,white
 15016,female,165.3,67.6,right,44,white
 15017,female,163.8,65.8,right,44,white
@@ -4393,26 +4195,22 @@ subjectid,gender,height,weight,handedness,age,race
 15297,female,175.4,89.6,right,35,black
 16053,female,170.9,84.2,left,31,black
 16054,female,178.9,84.5,right,32,black
-16058,female,158.7,59.6,right,40,pacific_islander
 16059,female,168.7,68.8,right,29,white
 16061,female,166.5,69,right,26,white
 16063,female,157.3,74.8,right,45,black
 16073,female,165.4,69.9,right,21,white
 16075,female,158.2,69.1,right,30,white
 16076,female,157.5,56.6,right,39,white
-16084,female,160,69.9,right,18,asian
 16089,female,158.4,46.8,right,24,white
 16106,female,153.5,70.1,right,39,hispanic
 16115,female,159.3,83.2,right,37,white
 16121,female,158.3,78.9,right,20,black
-16127,female,160.8,59.2,right,29,asian
 16132,female,166.3,58.3,left,25,hispanic
 16133,female,160.9,74.6,right,27,hispanic
 16136,female,151.3,42.8,right,19,white
 16140,female,170.4,85.3,right,22,white
 16141,female,170.8,66.4,right,27,white
 16142,female,150.6,57.7,right,21,hispanic
-16143,female,158.3,56.5,right,28,pacific_islander
 16152,female,173.1,71.4,right,42,white
 16459,female,166.9,76.2,right,22,black
 16475,female,164,55.6,right,21,white
@@ -4427,8 +4225,6 @@ subjectid,gender,height,weight,handedness,age,race
 16523,female,178.9,92.4,right,28,white
 16528,female,160.8,66.2,right,26,hispanic
 16529,female,159.5,56.2,right,35,black
-16530,female,159,56.4,right,41,pacific_islander
-16532,female,157.5,65.3,right,40,asian
 16535,female,153.9,67.9,left,52,black
 16538,female,165.4,77.7,right,29,black
 16539,female,161.6,63.2,right,25,hispanic
@@ -4516,9 +4312,6 @@ subjectid,gender,height,weight,handedness,age,race
 17520,female,177,88.9,left,35,white
 17522,female,157.4,66.1,right,46,white
 17536,female,171.5,84.2,right,52,white
-17537,female,152.5,55.8,right,28,asian
-17538,female,165,98.3,right,24,native_american
-17539,female,153.7,53.5,right,35,asian
 17543,female,156.8,58.1,right,40,white
 17544,female,156.9,68.4,right,22,black
 17545,female,171.1,72.5,right,34,white
@@ -4598,7 +4391,6 @@ subjectid,gender,height,weight,handedness,age,race
 17734,female,158.9,72.7,right,26,black
 17735,female,154.5,64.5,right,26,black
 17736,female,165.9,75.5,left,41,black
-17740,female,152.2,55.5,right,34,asian
 17742,female,165.1,77.9,right,35,black
 17743,female,176.7,76.3,right,31,white
 17744,female,160.8,78.5,right,27,white
@@ -4656,18 +4448,14 @@ subjectid,gender,height,weight,handedness,age,race
 17871,female,168.8,74.6,left,33,black
 17872,female,172.5,86.4,right,31,black
 17873,female,160.9,60.8,right,31,white
-17884,female,158.5,50.4,right,27,asian
 17886,female,156.2,54.9,right,25,white
-17889,female,154.7,53,right,38,asian
 17890,female,161.1,69.2,right,20,white
 17892,female,174,71.3,right,42,white
 17895,female,155.5,70.5,right,31,white
 17897,female,165,69.9,right,33,black
-17900,female,158.3,65.9,right,26,asian
 17901,female,164.7,63.2,right,20,white
 17902,female,153.2,69.6,right,20,black
 17908,female,161.9,59.3,right,23,hispanic
-17909,female,170.4,69.5,right,25,asian
 17910,female,168.9,79.7,right,25,white
 17911,female,165.7,61.9,right,25,white
 17915,female,164.7,67.7,right,23,black
@@ -4693,7 +4481,6 @@ subjectid,gender,height,weight,handedness,age,race
 17971,female,156.1,70.7,right,21,white
 17973,female,154.3,66.9,either,22,white
 17974,female,156.2,59.7,right,21,hispanic
-17977,female,162.7,72,right,21,native_american
 17982,female,167.8,75,either,19,white
 17983,female,160.8,67.3,left,28,white
 17984,female,167.2,78.4,right,26,white
@@ -4712,19 +4499,15 @@ subjectid,gender,height,weight,handedness,age,race
 18024,female,164.6,76.7,right,31,white
 18025,female,152.2,66.7,right,33,black
 18026,female,176,78.3,right,28,black
-18027,female,150.5,51.8,right,27,asian
 18030,female,170.8,66.3,right,27,black
 18037,female,165.9,65.5,left,26,black
 18040,female,161.3,69,right,33,black
 18041,female,166.6,68,right,24,hispanic
-18042,female,156.5,60.9,right,24,pacific_islander
 18044,female,157.8,64.6,right,28,black
 18051,female,148,54,right,20,black
 18052,female,163.6,53,right,29,white
 18054,female,160.8,78.9,right,24,black
 18056,female,155.2,43.1,left,23,black
-18057,female,155.9,74.6,right,21,asian
-18059,female,159.5,71.2,right,38,asian
 18066,female,167.4,72.7,right,19,white
 18075,female,166.1,61.3,left,18,white
 18076,female,155,57.4,right,35,black
@@ -4785,7 +4568,6 @@ subjectid,gender,height,weight,handedness,age,race
 18172,female,153.3,59.8,right,20,white
 18174,female,156.3,68.6,right,25,white
 18175,female,165.5,70.8,right,25,white
-18176,female,149.6,48.8,right,38,asian
 18179,female,177.7,76.6,right,23,white
 18183,female,154.6,58.3,right,24,black
 18185,female,168.5,68.5,right,21,white
@@ -4795,38 +4577,30 @@ subjectid,gender,height,weight,handedness,age,race
 18190,female,165.5,58.3,right,18,white
 18191,female,157.4,64.8,right,19,white
 18193,female,165.9,56.4,right,18,white
-18196,female,154.1,47.8,left,25,pacific_islander
 18197,female,167.5,59.1,right,41,black
 18198,female,165.2,66.5,right,19,white
 18200,female,159.3,64.9,right,24,white
 18203,female,156.5,51.2,right,21,hispanic
-18205,female,153,49.6,right,42,asian
 18206,female,160,74.4,right,25,black
 18207,female,161.5,68,right,26,black
 18214,female,155.7,50.6,right,21,black
-18216,female,167.9,59.1,right,19,native_american
 18228,female,166.2,71.2,right,26,hispanic
 18232,female,169.6,84.4,right,31,white
 18239,female,165.7,54.7,right,36,black
-18240,female,149.5,48.7,right,23,pacific_islander
 18241,female,164.4,61.2,right,23,white
 18242,female,165.2,72.2,right,29,black
 18247,female,156.6,56.7,right,22,hispanic
 18248,female,165.3,68.8,left,28,black
-18249,female,160.4,54.2,right,28,asian
 18251,female,159.4,61.1,right,23,white
 18252,female,162.7,67.2,right,29,hispanic
 18255,female,172.9,74.9,right,24,black
-18256,female,160.2,58.5,left,41,pacific_islander
 18258,female,161.5,60.5,right,23,hispanic
 18259,female,164.5,60.1,right,20,white
 18261,female,162.3,62.1,right,26,white
 18262,female,159.5,60.9,right,20,black
 18264,female,148,47,right,22,black
 18265,female,169.6,78.6,right,32,black
-18266,female,168,72.5,right,41,native_american
 18268,female,159,51.6,right,23,black
-18269,female,152.9,50.1,right,28,asian
 18271,female,155.1,62.6,right,38,black
 18272,female,170.9,78.7,right,32,black
 18275,female,158.9,57.2,right,31,hispanic
@@ -4839,8 +4613,6 @@ subjectid,gender,height,weight,handedness,age,race
 18292,female,172.4,70.1,right,32,white
 18294,female,162.3,78.2,right,28,hispanic
 18295,female,168.6,61.1,right,20,hispanic
-18298,female,158.7,63.1,right,42,pacific_islander
-18307,female,154.6,54,right,21,asian
 18311,female,168.2,61.9,right,20,black
 18316,female,151.9,57.7,right,18,hispanic
 18318,female,163.1,67.3,right,19,black
@@ -4899,7 +4671,6 @@ subjectid,gender,height,weight,handedness,age,race
 18439,female,165.9,71.7,left,21,white
 18440,female,161.4,60.6,right,20,white
 18444,female,163,64.8,right,22,black
-18454,female,143.5,47.8,right,20,pacific_islander
 18457,female,167.2,75.1,right,21,black
 18460,female,170.8,73.9,left,21,black
 18463,female,167.6,68.6,right,23,white
@@ -4919,9 +4690,7 @@ subjectid,gender,height,weight,handedness,age,race
 18499,female,167,73.8,right,18,white
 18500,female,163,47.8,right,18,white
 18501,female,163.6,58.3,right,20,white
-18503,female,171.4,84.9,right,22,pacific_islander
 18512,female,170.2,73.2,right,20,black
-18513,female,159,60.9,right,18,asian
 18522,female,164.3,65.4,right,20,white
 18524,female,176.9,83.2,left,33,hispanic
 18525,female,154.9,59.1,right,18,white
@@ -4948,7 +4717,6 @@ subjectid,gender,height,weight,handedness,age,race
 20090,female,159.5,66.4,right,31,white
 20091,female,156.3,74.4,right,22,hispanic
 20092,female,167.4,62.1,right,28,white
-20093,female,143.9,58.5,right,29,asian
 20094,female,171.8,81,right,30,hispanic
 20095,female,158.9,51.1,left,24,hispanic
 20096,female,164.5,71.7,left,39,white
@@ -4959,7 +4727,6 @@ subjectid,gender,height,weight,handedness,age,race
 20111,female,164.2,57.4,right,43,white
 20423,female,173.2,71.6,left,25,white
 20425,female,160,54,right,23,hispanic
-20429,female,140.9,42.6,right,27,asian
 20439,female,162,58.5,right,28,white
 20444,female,174.6,82.8,right,22,black
 20520,female,168.8,74,right,22,black
@@ -4977,13 +4744,10 @@ subjectid,gender,height,weight,handedness,age,race
 20698,female,164.4,59.4,right,30,white
 20699,female,159.7,76.6,right,41,black
 20700,female,173.2,67.8,right,38,black
-21132,female,152.9,51.7,right,33,asian
 21179,female,162,66.2,right,44,white
 21182,female,164.3,66.5,right,40,white
-21183,female,155.6,61.3,right,28,asian
 21185,female,163,72.9,right,45,black
 21214,female,161.4,70.1,left,36,white
-21215,female,146.4,42.6,right,22,asian
 21221,female,174.9,72.9,right,32,black
 21223,female,161.8,76.1,left,42,white
 21228,female,163.1,71.9,right,39,black
@@ -5015,11 +4779,9 @@ subjectid,gender,height,weight,handedness,age,race
 21561,female,162.5,77.2,right,36,black
 21565,female,157.3,64.3,right,31,black
 21569,female,159.9,72.2,right,29,white
-21572,female,154.7,69.3,right,31,asian
 21587,female,173.5,73.7,right,25,white
 21592,female,167,72.5,right,24,white
 21593,female,167.8,81.6,right,22,black
-21595,female,160.4,57,right,31,native_american
 21649,female,163.1,66,right,38,hispanic
 21653,female,168.4,80.4,left,40,black
 21702,female,171.5,85.2,right,38,white
@@ -5037,11 +4799,7 @@ subjectid,gender,height,weight,handedness,age,race
 22014,female,162.1,71.2,right,42,black
 22030,female,172.1,102.8,right,40,black
 22035,female,160.6,75.9,right,54,white
-22040,female,156.7,65.9,right,23,asian
-22041,female,172,64.4,left,28,asian
-22043,female,163.9,68.9,right,38,asian
 22045,female,173,86.3,right,42,black
-22046,female,168.2,94.9,right,37,pacific_islander
 22048,female,172,63,right,51,hispanic
 22049,female,178.3,106.9,right,44,black
 22052,female,164.1,63.9,right,22,hispanic
@@ -5096,11 +4854,9 @@ subjectid,gender,height,weight,handedness,age,race
 23664,female,162.6,65.8,right,28,white
 23816,female,161.3,78.9,right,23,white
 23837,female,161.4,58.5,right,33,black
-23838,female,163,58.9,right,31,asian
 23839,female,171.6,78.5,right,26,white
 23840,female,151,67.6,right,39,black
 23845,female,163.9,86.2,right,28,hispanic
-23848,female,157.6,60.5,right,35,native_american
 23850,female,167.7,95,right,40,black
 23851,female,166.9,64.9,right,28,black
 23852,female,159.2,61.6,right,34,black
@@ -5109,10 +4865,8 @@ subjectid,gender,height,weight,handedness,age,race
 23884,female,161,65.2,right,22,white
 23902,female,181.1,77.3,right,27,black
 23903,female,163.9,73.4,right,42,white
-23905,female,163.5,54.9,right,25,pacific_islander
 23915,female,175.1,80.2,left,21,white
 23916,female,162.6,69.5,right,25,white
-23930,female,168.8,64.7,right,20,asian
 23934,female,158.8,65.7,right,24,white
 23939,female,163.5,87.1,right,33,white
 23940,female,162.4,58,right,40,black
@@ -5124,7 +4878,6 @@ subjectid,gender,height,weight,handedness,age,race
 23970,female,151.7,54.8,right,28,hispanic
 23974,female,165.9,82.6,right,30,white
 23978,female,171.8,65.1,right,27,white
-23990,female,153.3,57,right,35,asian
 23998,female,159.2,71.9,right,42,white
 24072,female,163.6,72.6,left,23,black
 24074,female,164.8,71.6,left,24,black
@@ -5147,7 +4900,6 @@ subjectid,gender,height,weight,handedness,age,race
 24739,female,165.5,58.2,right,24,hispanic
 24740,female,161.2,79.6,right,21,hispanic
 24743,female,163.6,60.9,right,26,white
-24746,female,170.9,82.3,right,27,pacific_islander
 24782,female,154.7,56.7,right,23,black
 24783,female,165.7,51,right,28,white
 24786,female,169.5,60.1,right,25,white
@@ -5174,7 +4926,6 @@ subjectid,gender,height,weight,handedness,age,race
 25088,female,164.3,70.2,right,22,hispanic
 25091,female,161.1,59.2,right,27,white
 25092,female,152,56.3,either,23,white
-25093,female,169.7,92.7,right,24,native_american
 25094,female,164,80.1,right,40,black
 25097,female,167.2,77.2,right,21,white
 25099,female,166.2,70.4,right,26,hispanic
@@ -5202,7 +4953,6 @@ subjectid,gender,height,weight,handedness,age,race
 25235,female,160.5,60.2,right,29,black
 25237,female,166.6,77.1,right,37,black
 25239,female,163.5,61.7,right,23,hispanic
-25241,female,149.8,46.2,right,29,asian
 25243,female,161.9,59.1,right,19,white
 25244,female,155.9,57.4,left,20,white
 25248,female,163.9,62.1,right,21,black
@@ -5227,7 +4977,6 @@ subjectid,gender,height,weight,handedness,age,race
 25286,female,164.8,75,right,49,black
 25293,female,158.7,60.4,right,52,black
 25294,female,149.2,43,right,22,black
-25295,female,156.7,75,right,29,native_american
 25296,female,156.3,71.6,right,27,black
 25300,female,166.3,72.3,right,41,black
 25306,female,161.7,76.5,right,19,hispanic
@@ -5290,10 +5039,8 @@ subjectid,gender,height,weight,handedness,age,race
 25440,female,157.3,57.3,right,41,white
 25445,female,165.7,59.7,right,23,white
 25446,female,165.5,66.5,right,24,white
-25457,female,150.2,50.5,right,24,asian
 25458,female,165.3,74.9,right,28,white
 25462,female,163.3,75.6,left,18,white
-25467,female,158.5,63.4,left,24,asian
 25472,female,163.2,76.8,right,19,white
 25474,female,161.6,80.4,right,20,white
 25476,female,167,76.2,right,32,white
@@ -5309,7 +5056,6 @@ subjectid,gender,height,weight,handedness,age,race
 25506,female,156.3,61.4,right,27,hispanic
 25509,female,172.8,74.2,left,39,black
 25510,female,159,67.1,right,29,white
-25511,female,163.6,57.7,right,28,asian
 25515,female,165.5,80.3,right,44,black
 25516,female,170.7,63.4,right,41,white
 25523,female,167.6,68.1,right,21,white
@@ -5331,12 +5077,10 @@ subjectid,gender,height,weight,handedness,age,race
 25564,female,154.8,64.7,right,30,hispanic
 25566,female,160.7,63.1,right,18,black
 25574,female,168.6,66.6,right,32,black
-25577,female,164,66.7,right,42,asian
 25580,female,156.3,49.7,right,24,white
 25583,female,159.1,55.8,right,32,hispanic
 25587,female,167.8,92.1,right,29,black
 25590,female,167,69.5,right,18,white
-25592,female,152.9,56.3,right,19,asian
 25594,female,161.6,60.3,right,18,white
 25595,female,162,64.7,right,21,white
 25596,female,151,64.2,right,21,hispanic
@@ -5354,7 +5098,6 @@ subjectid,gender,height,weight,handedness,age,race
 25625,female,167.6,74.7,right,35,white
 25627,female,158.5,62.2,right,30,white
 25628,female,159.4,57.4,right,35,white
-25629,female,162.9,56.5,right,22,asian
 25630,female,158.1,64.6,right,22,white
 25632,female,161.4,52.9,right,28,white
 25633,female,155.9,64.8,right,27,white
@@ -5376,7 +5119,6 @@ subjectid,gender,height,weight,handedness,age,race
 25661,female,161.2,66.4,right,19,black
 25665,female,170.7,70.3,right,40,black
 25666,female,161.1,61.6,right,22,white
-25674,female,159.9,65.4,left,33,asian
 25679,female,156.9,58.9,right,22,black
 25683,female,166.3,52.4,right,33,white
 25686,female,166.6,70.6,left,18,white
@@ -5398,7 +5140,6 @@ subjectid,gender,height,weight,handedness,age,race
 25714,female,161.4,67,right,20,white
 25715,female,159.8,71.1,right,20,white
 25717,female,161.7,65.5,right,40,white
-25718,female,165.8,77.1,right,23,asian
 25722,female,164.2,66.8,right,18,black
 25729,female,169.8,70.7,right,19,white
 25744,female,164.8,75.7,right,18,white
@@ -5432,7 +5173,6 @@ subjectid,gender,height,weight,handedness,age,race
 25805,female,160.2,60.3,right,39,black
 25808,female,169.4,79.2,right,25,white
 25809,female,151,61.8,left,30,white
-25810,female,153.4,60.3,right,41,asian
 25812,female,163.4,88.5,left,45,black
 25817,female,167.9,84.2,right,35,white
 25823,female,161.8,79.8,right,43,white
@@ -5445,7 +5185,6 @@ subjectid,gender,height,weight,handedness,age,race
 25831,female,151.8,50.5,right,30,black
 25833,female,165.3,72.9,right,47,black
 25835,female,165.9,83.5,right,29,black
-25837,female,157,46.3,right,28,asian
 25838,female,157,80.2,right,28,black
 25839,female,165.3,95.1,right,29,white
 25846,female,171.2,58.2,right,25,black
@@ -5459,7 +5198,6 @@ subjectid,gender,height,weight,handedness,age,race
 25862,female,161.7,62.3,right,55,black
 25866,female,167.4,89.6,right,39,black
 25867,female,160.5,83.3,right,32,hispanic
-25868,female,164.9,91.6,right,50,native_american
 25869,female,160.3,67.7,right,30,black
 25871,female,162,53.5,right,26,white
 25872,female,158.4,71.2,left,58,black
@@ -5469,9 +5207,7 @@ subjectid,gender,height,weight,handedness,age,race
 25877,female,163.9,73.1,right,36,black
 25880,female,163,62,left,23,white
 25881,female,161.5,69.5,right,30,hispanic
-25882,female,158.4,62,right,41,asian
 25883,female,166.4,66.9,right,31,black
-25888,female,154.5,54.3,right,40,asian
 25890,female,168.8,64.8,right,28,white
 25891,female,167.3,62.5,right,41,black
 25892,female,164.7,64.3,right,43,black
@@ -5486,7 +5222,6 @@ subjectid,gender,height,weight,handedness,age,race
 25912,female,157.2,63.2,right,26,white
 25913,female,174.3,74.6,right,20,white
 25914,female,156.1,58.9,right,23,hispanic
-25917,female,162.3,64.3,right,29,asian
 25920,female,164.9,70.5,right,34,black
 25923,female,166.1,76,right,34,black
 25924,female,166.8,68,right,19,white
@@ -5496,13 +5231,11 @@ subjectid,gender,height,weight,handedness,age,race
 25933,female,154.3,80.4,right,42,black
 25934,female,156.1,67.3,right,23,black
 25937,female,158.7,51.6,right,21,black
-25939,female,149.5,52.6,right,40,asian
 25941,female,164.5,91.4,right,22,white
 25942,female,165.3,91.9,right,25,white
 25943,female,168.5,75.7,right,46,white
 25946,female,156.9,71.7,right,42,black
 25950,female,165.6,73.8,right,31,black
-25952,female,167.2,76.9,right,33,pacific_islander
 25954,female,162.2,69.2,right,24,black
 25955,female,166.4,60.9,right,22,hispanic
 25958,female,163.6,59.6,right,37,white
@@ -5514,7 +5247,6 @@ subjectid,gender,height,weight,handedness,age,race
 25967,female,167.1,73.8,right,42,black
 25968,female,178.9,80.8,right,20,white
 25970,female,155.3,62.4,left,32,black
-25973,female,167.3,77.5,right,37,asian
 25977,female,159.8,63.1,right,25,white
 25978,female,179.8,87.5,right,41,black
 25979,female,164.1,65,left,25,black
@@ -5561,7 +5293,6 @@ subjectid,gender,height,weight,handedness,age,race
 26072,female,156.7,46.9,right,20,black
 26073,female,168.9,67.4,right,18,black
 26074,female,157.6,52.9,right,21,black
-26075,female,159.6,64.4,right,22,asian
 26076,female,168.4,81.9,left,30,white
 26078,female,170.2,68.3,right,21,white
 26080,female,174.5,58.2,right,23,white
@@ -5579,7 +5310,6 @@ subjectid,gender,height,weight,handedness,age,race
 26100,female,164,57.7,right,20,hispanic
 26102,female,167.5,79,right,25,black
 26103,female,159.2,67.1,right,31,hispanic
-26104,female,163.3,69.1,right,21,asian
 26106,female,173.3,77.3,right,37,black
 26107,female,161,62.2,right,27,black
 26114,female,156.6,62,right,27,black
@@ -5595,14 +5325,12 @@ subjectid,gender,height,weight,handedness,age,race
 26138,female,171.3,74.3,right,17,black
 27066,female,164.1,74.4,right,37,hispanic
 27067,female,161.2,63.3,right,18,white
-27068,female,159.6,62.1,right,21,asian
 27070,female,144.2,46.7,either,35,white
 27071,female,155.5,63.9,right,30,hispanic
 27072,female,149.7,57.9,right,24,hispanic
 27073,female,161.2,70.8,right,25,hispanic
 27074,female,169,69.8,left,26,white
 27075,female,163.4,65.4,right,20,white
-27076,female,150.9,54.2,right,18,asian
 27084,female,158.2,59.3,right,20,black
 27086,female,146.5,49.7,right,32,white
 27089,female,154.5,52.6,right,26,white
@@ -5612,7 +5340,6 @@ subjectid,gender,height,weight,handedness,age,race
 27106,female,162.6,66.1,right,22,hispanic
 27107,female,153.3,79.4,left,22,black
 27211,female,155.3,57.2,either,23,white
-27212,female,175.2,78.5,right,28,native_american
 27213,female,161.8,67.6,right,23,hispanic
 27217,female,163.4,53,right,23,hispanic
 27218,female,168.9,77.7,right,24,white
@@ -5624,9 +5351,7 @@ subjectid,gender,height,weight,handedness,age,race
 27231,female,158.5,64.4,right,31,white
 27232,female,163.8,69.3,left,22,white
 27233,female,175.4,84.9,right,22,white
-27234,female,162.3,60.7,right,24,asian
 27236,female,161.4,62.3,right,22,white
-27237,female,167.6,60.1,right,25,asian
 27240,female,156,51.6,right,29,black
 27241,female,163.7,50.5,right,42,white
 27245,female,154.2,53.2,right,22,white
@@ -5637,7 +5362,6 @@ subjectid,gender,height,weight,handedness,age,race
 27442,female,156.4,62.2,right,22,white
 27444,female,168.6,72.6,right,53,white
 27446,female,167.8,71.1,right,25,white
-27447,female,157.3,57.2,left,26,pacific_islander
 27450,female,158.9,62.3,right,20,white
 27451,female,162.1,60.2,left,18,white
 27452,female,167.9,80.5,right,46,white
@@ -5645,10 +5369,7 @@ subjectid,gender,height,weight,handedness,age,race
 27455,female,171.3,52,right,26,black
 27459,female,155,57.8,right,29,black
 27465,female,158.3,58,right,24,black
-27467,female,154,61.2,left,19,asian
-27468,female,154.1,58.5,right,47,asian
 27469,female,162.2,87.5,right,41,white
-27470,female,179.3,77.3,right,42,native_american
 27472,female,171.3,75.5,right,30,black
 27473,female,160.3,67.8,right,29,white
 27474,female,171.1,88.8,right,45,black
@@ -5707,7 +5428,6 @@ subjectid,gender,height,weight,handedness,age,race
 28168,female,166.6,65,right,28,hispanic
 28169,female,157.6,55.5,right,20,white
 28170,female,168.5,75.5,right,22,white
-28171,female,162.9,54.8,right,24,asian
 28172,female,163.7,70.5,right,25,black
 28174,female,159.7,54.8,right,21,white
 28175,female,167.6,76.3,left,24,black
@@ -5718,17 +5438,12 @@ subjectid,gender,height,weight,handedness,age,race
 28180,female,162.9,89.7,right,23,white
 28181,female,161.5,52.5,right,20,white
 28182,female,153.7,77.2,right,20,hispanic
-28239,female,166.3,65.7,right,22,asian
 28240,female,158.2,53.7,right,21,hispanic
 28241,female,149.9,66.7,right,41,hispanic
 28242,female,177.1,83.3,right,25,white
 28244,female,154.5,59.9,right,27,hispanic
 28245,female,160.3,64.9,right,31,hispanic
 28246,female,158,78.8,right,24,hispanic
-28247,female,160.8,75.2,right,23,asian
-28248,female,156.1,64.3,right,31,pacific_islander
-28249,female,164.2,61.3,right,21,asian
-28250,female,160,84.7,left,20,pacific_islander
 28252,female,159.1,68.7,right,28,black
 28253,female,169.7,69.7,right,37,white
 28254,female,169.1,60.2,right,30,white
@@ -5746,7 +5461,6 @@ subjectid,gender,height,weight,handedness,age,race
 28266,female,159.8,66.1,right,42,black
 28267,female,177,92.5,right,29,white
 28268,female,156.6,61.1,right,50,white
-28269,female,166.8,61.1,right,39,native_american
 28270,female,161.4,79.7,right,27,black
 28271,female,167.3,68.2,right,38,white
 28272,female,158.8,48.9,right,19,white
@@ -5809,7 +5523,6 @@ subjectid,gender,height,weight,handedness,age,race
 28524,female,163.2,71.5,right,44,white
 28561,female,172.9,97.3,right,35,white
 28562,female,153.3,45,right,19,black
-28563,female,161.1,50.4,right,20,asian
 28564,female,165,57.7,right,24,black
 28565,female,147.3,56.2,right,22,black
 28566,female,170,72.8,right,25,black
@@ -5852,7 +5565,6 @@ subjectid,gender,height,weight,handedness,age,race
 28680,female,156.3,56.4,right,27,white
 28681,female,173.4,76.5,right,25,white
 28682,female,173.4,87.1,right,26,black
-28683,female,172.8,68.2,left,35,asian
 28684,female,166.1,62.9,right,24,white
 28685,female,170.3,56.8,right,28,white
 28686,female,170.2,68,right,20,white
@@ -5874,7 +5586,6 @@ subjectid,gender,height,weight,handedness,age,race
 28726,female,162.7,60.1,left,26,black
 28728,female,171.8,83.4,left,24,black
 28729,female,170.5,97.3,right,23,black
-28730,female,156.1,55.7,right,25,asian
 28731,female,166.1,55.3,right,25,black
 28732,female,162,52.6,right,25,black
 28733,female,166,61.4,right,25,black
@@ -5885,9 +5596,7 @@ subjectid,gender,height,weight,handedness,age,race
 28738,female,170.7,60.1,right,22,black
 28739,female,156,78.2,right,33,white
 28740,female,148.3,44.2,right,26,hispanic
-28742,female,158.7,47.6,right,22,pacific_islander
 28743,female,157.9,64.2,right,27,black
-28745,female,165.9,73.7,left,21,asian
 28746,female,168.4,77.6,right,27,black
 28747,female,159.3,62,right,27,hispanic
 28748,female,158.9,64.6,right,25,black
@@ -5919,7 +5628,6 @@ subjectid,gender,height,weight,handedness,age,race
 28841,female,151.9,60,right,29,black
 28842,female,157.3,64,right,24,white
 28843,female,156.6,71.2,right,39,white
-28844,female,152.9,47.5,left,25,pacific_islander
 28845,female,158.5,73.5,right,26,white
 28847,female,161.1,54.6,right,23,white
 28848,female,161,56.2,right,21,white
@@ -5935,7 +5643,6 @@ subjectid,gender,height,weight,handedness,age,race
 28951,female,163.7,64.1,right,32,white
 28958,female,162.8,70.1,right,20,white
 28959,female,164.5,79.3,right,22,white
-28960,female,159.5,66,right,24,native_american
 28961,female,173.1,93.1,right,23,white
 29013,female,156.7,66.1,right,24,white
 29014,female,162.8,51,right,28,hispanic
@@ -5948,7 +5655,6 @@ subjectid,gender,height,weight,handedness,age,race
 29023,female,161.6,62.7,right,24,white
 29025,female,175.3,59.3,right,28,white
 29026,female,162.6,50.8,right,32,white
-29027,female,169.8,72.7,right,29,pacific_islander
 29067,female,154.5,58.3,right,42,white
 29069,female,175.9,66.9,right,23,white
 29070,female,173.2,84.2,right,43,white
@@ -5956,27 +5662,23 @@ subjectid,gender,height,weight,handedness,age,race
 29072,female,160.5,60.9,right,27,white
 29100,female,153,68.7,right,29,white
 29106,female,159.8,54.9,right,28,white
-29120,female,152.4,45.2,left,20,native_american
 29121,female,168.3,83.5,right,24,white
 29122,female,157.7,64.1,right,21,black
 29124,female,158.3,58.8,right,36,white
 29125,female,158.2,56.3,right,30,white
 29127,female,156.9,70.2,right,34,white
 29129,female,165.1,77.9,right,24,black
-29284,female,146.3,62.6,right,20,asian
 29285,female,165.9,99.2,left,24,white
 29286,female,159.6,62.6,left,23,white
 29287,female,160,71.3,right,28,white
 29289,female,155.7,52.8,right,28,black
 29290,female,156.5,55.2,right,23,hispanic
 29291,female,152.5,62.2,right,21,hispanic
-29292,female,161.3,61.2,right,21,native_american
 29293,female,167.4,52.9,right,22,white
 29294,female,161.4,74.8,right,29,white
 29295,female,155.8,58.2,right,29,white
 29296,female,177.4,79,right,28,white
 29298,female,163.3,61.8,right,20,white
-29299,female,161.1,71.6,right,28,native_american
 29337,female,176.8,69.2,left,21,white
 29338,female,157.8,63.5,right,28,white
 29367,female,161.9,70.4,right,22,black
@@ -6023,7 +5725,6 @@ subjectid,gender,height,weight,handedness,age,race
 29409,female,165.8,90.9,right,35,black
 29410,female,170.1,104.7,right,55,black
 29455,female,168.3,66.3,right,42,black
-29456,female,163.4,76.6,left,39,native_american
 29459,female,169.5,71.5,right,22,black
 29461,female,154.8,59.1,right,37,white
 29462,female,158.7,66.5,right,37,hispanic
