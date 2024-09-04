@@ -37,7 +37,7 @@ set.seed(10101)
 
 * In linear models and generalized linear models, the parameters^[Or transformations of parameters.] are linear functions of predictors.
 * In generalized additive models, these linear functions are replaced or complemented by smooth nonlinear functions.
-* These smooth nonlinear functions are^[In practice, nearly always.] weighted sums of *basis function*.
+* These smooth nonlinear functions are^[In practice, nearly always.] weighted sums of *basis functions*.
 
 ## Generalized Additive Mixed Models (GAMMs) in a nutshell
 
