@@ -21,3 +21,5 @@ eyefix_df_avg <- dplyr::group_by(eyefix_df, Time, Object) |>
 eyefix_df_avg_targ <- dplyr::filter(eyefix_df_avg, Object == 'Target')
 
 DOC_df <- readr::read_csv(GH("data/DoctorVisits.csv"))
+
+gssvocab_df <- readr::read_csv(GH("data/gssvocab.csv"))
