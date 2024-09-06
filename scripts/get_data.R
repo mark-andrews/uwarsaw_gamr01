@@ -44,3 +44,5 @@ eyetrackr_df <- readr::read_csv(GH("data/eyetrackr.csv")) %>%
   mutate(across(c(subject, condition, target), as.factor))
 
 meuse_df <- readr::read_csv(GH('data/meuse.csv'))
+
+raneftanh_df <- readr::read_csv(GH("data/raneftanh.csv"))

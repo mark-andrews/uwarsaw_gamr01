@@ -27,3 +27,10 @@ loo_lm_poly <- function(degree, data_df){
   pointwise_elpd <- map_dbl(seq(n), loocv)
   c(elpd = -2*sum(pointwise_elpd), se = -2 * sqrt(n * var(pointwise_elpd)))
 }
+
+add_basis_functions <- function(x, k = 5){
+  splines::bs(x, degree = k) %>%
+    as_tibble() %>% 
+    rename_all(~paste0('phi_', .)) %>%
+    mutate_all(as.numeric)
+}
