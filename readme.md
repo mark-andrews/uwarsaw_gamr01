@@ -26,3 +26,9 @@ Instructions on how to install all the software is [here](software.md).
 - Topic 4: _Generalized additive models_. We now turn to the major topic of generalized additive models (GAMs). GAMs generalize many of concepts and topics covered so far and represent a powerful and flexible framework for nonlinear modelling. In R, the `mgcv` package provides a extensive set of tools for working with GAMs. Here, we will provide an in-depth coverage of `mgcv` including choosing smooth terms, controlling overfitting and complexity, prediction, model evaluation, and so on.
 - Topic 5: _Generalized additive mixed models_. GAMs can also be used in linear mixed effects, aka multilevel, models where they are known as generalized additive mixed models (GAMMs). GAMMs can also be used with the `mgcv` package.
 - Topic 6: _Bayesian Generalized additive mixed models_. GAMs and GAMMs may be conducted using Bayesian methods. This provides both theoretical and practical advantages. In this section, we will introduce how GAMs and GAMMs can be carried out in a Bayesian manner using the powerful `brms`/Stan software.
+
+## A book
+
+Chapter 13 and a few other chapters may be useful for this courses:
+
+https://www.mjandrews.org/book/ddsr/

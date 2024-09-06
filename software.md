@@ -143,3 +143,15 @@ The datasets that we will use can be loaded into R with the following command:
 ```r
 source("https://raw.githubusercontent.com/mark-andrews/uwarsaw_gamr01/main/scripts/get_data.R")
 ```
+
+## Utils
+
+Some custome R functions are available here:
+```r
+source("https://raw.githubusercontent.com/mark-andrews/uwarsaw_gamr01/main/scripts/utils.R")
+```
+
+## Binder RStudio Server
+
+An RStudio server session with Stan and `brms` installed and ready to use is (hopefully) available by clicking this button.
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/mark-andrews/intro_bda_qub/HEAD?urlpath=rstudio)
