@@ -97,6 +97,21 @@ gam.check(M_17)
 anova(M_17, M_16, test = 'Chisq')
 AIC(M_17, M_16)
 
+# setting sp
+
+M_17a <- gam(accel ~ s(times, sp = 1e-4), data = mcycle)
+M_17b <- gam(accel ~ s(times, sp = 1e-1), data = mcycle)
+M_17c <- gam(accel ~ s(times, sp = 1e+1), data = mcycle)
+M_17d <- gam(accel ~ s(times, sp = 1e+4), data = mcycle)
+M_17e <- gam(accel ~ s(times, sp = 0.01, k = 6), data = mcycle)
+
+plot(M_17a, residuals = T)
+plot(M_17b, residuals = T)
+plot(M_17c, residuals = T)
+plot(M_17d, residuals = T)
+
+AIC(M_16,M_17a, M_17b, M_17c, M_17d)
+
 
 M_18 <- gam(mean_fix ~ s(Time) + Object, data = eyefix_df_avg)
 summary(M_18)
